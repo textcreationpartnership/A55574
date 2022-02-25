@@ -1,0 +1,883 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Common-prayer-book no divine service, or, XXVIII reasons against forming and imposing any humane liturgies or Common-prayer-books, and the main objections to the contrary, answered also, the English Common-prayer-book anatomized, likewise twelve arguments against diocesan and lord-bishops, with the main objections answered, and the great disparity between them, and Timothy and Titus, shewed / by Vavasor Powell.</title>
+            <author>Powell, Vavasor, 1617-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 123 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55574</idno>
+            <idno type="STC">Wing P3084</idno>
+            <idno type="STC">ESTC R40660</idno>
+            <idno type="EEBO-CITATION">19500756</idno>
+            <idno type="OCLC">ocm 19500756</idno>
+            <idno type="VID">108883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55574)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108883)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1676:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Common-prayer-book no divine service, or, XXVIII reasons against forming and imposing any humane liturgies or Common-prayer-books, and the main objections to the contrary, answered also, the English Common-prayer-book anatomized, likewise twelve arguments against diocesan and lord-bishops, with the main objections answered, and the great disparity between them, and Timothy and Titus, shewed / by Vavasor Powell.</title>
+                  <author>Powell, Vavasor, 1617-1670.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The third edition :</edition>
+               </editionStmt>
+               <extent>[10], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Livewell Chapman, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer.</term>
+               <term>Church of England --  Liturgy.</term>
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108883:1"/>
+            <p>Common-Prayer-Book NO Divine Service: OR, XXVIII <hi>REASONS</hi> AGAINST Forming and Impoſing any Humane LITUR<g ref="char:EOLhyphen"/>GIES or COMMON-PRAYER-BOOKS; AND The main Objections to the contrary, anſwered; ALSO, <hi>The Engliſh Common-Prayer-Book anatomized.</hi>
+            </p>
+            <p>LIKEWISE Twelve Arguments againſt Dioceſan and Lord-Biſhops; with the main Objections anſwered.</p>
+            <p>AND The Great Diſparity between them, and <hi>Timothy</hi> and <hi>Titus,</hi> ſhewed.</p>
+            <p>By VAVASOR POWELL.</p>
+            <p>The Third Edition: Corrected and Enlarged.</p>
+            <q>
+               <p>Why do you alſo tranſgreſs the Commandement of God by your Tradi<g ref="char:EOLhyphen"/>tions?</p>
+               <bibl>
+                  <hi>Mat. 15.3.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Not as though yee were Lords of (or over) the Heritages,</p>
+               <bibl>
+                  <hi>1 Pet. 5.3.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Livewell Chapman,</hi> and are to bee ſold at his ſhop at the Sign of the Crown in Popes-head-Alley. 1661.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:108883:2"/>
+            <pb facs="tcp:108883:2"/>
+            <head>TO The
+<list>
+                  <item>Compoſers, of</item>
+                  <item>Impoſers, of</item>
+                  <item>Readers, of</item>
+                  <item>Hearers, of</item>
+                  <item>Diſputers and Writers for</item>
+               </list> Common-Prayer.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Would deſire you all in the Name and Fear of the <hi>All-ſeeing, Almighty,</hi> and <hi>All-judging GOD,</hi> to ſet theſe following, and the like Conſiderations to your hearts, and your hearts to them.</p>
+            <list>
+               <label>Conſider</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>1.</hi> How jealous the Lord of <hi>Heaven</hi> and <hi>Earth</hi> is of his own Worſhip, and of all the <hi>Parts</hi> and <hi>Circumſtances</hi> thereunto belonging, <hi>Deut. 5.9. Hoſ. 5.11. Mat. 15 3. Col. 2.21, 22. Rev. 22.14, 20.</hi>
+                     </item>
+                     <item>
+                        <hi>2.</hi> How <hi>abominable</hi> and <hi>unacceptable</hi> to this holy juſt God have <hi>been</hi> and <hi>are</hi> all <hi>Idola<g ref="char:EOLhyphen"/>trous, Superſtitious</hi> and <hi>Falſe Services,</hi> and all that do ſerve him in any <hi>Way</hi> or <hi>Thing</hi> which he hath not himſelf commanded and appointed, <hi>Deut. 7.25, 26. Iſa. 30.22. &amp; 66.3, 4. Jer. 9.13, 14, Ezek. 20.4.</hi>
+                     </item>
+                     <item>
+                        <hi>3.</hi> How <hi>ſorely</hi> and <hi>ſeverely</hi> he hath puniſhed
+<pb facs="tcp:108883:3"/>thoſe <hi>Kings, Prieſts, Prophets,</hi> and <hi>People</hi> that have been falſe Worſhippers, and ſwerved from His Holy Commandements, <hi>1 Kin. 11.6. Num. 11.3, 4.</hi>
+                     </item>
+                     <item>
+                        <hi>4.</hi> Whether God doth call upon any of you all, to offer him any ſuch Service as this is. And whether he may not ſay to you, as he did once to <hi>Judah, Who hath required this at your hand?</hi> Iſa. <hi>1.12.</hi>
+                     </item>
+                     <item>
+                        <hi>2.</hi> How inconſiſtent with the <hi>Day</hi> and <hi>Light</hi> of the Goſpel is this Service, God having ſent his Word more <hi>fully</hi> and <hi>plainly</hi> to direct his <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi> and <hi>People,</hi> and given his Spirit in a more abundant meaſure to <hi>help</hi> and <hi>inable</hi> them to call upon him.</item>
+                     <item>
+                        <hi>6.</hi> How little good (if any at all) hath been done by the long uſe of the Service-Book, though men have prayed long by it, <hi>That the reſt of their Lives might be holy, and righteous, and yet they ſtill continue prophane and unrigh<g ref="char:EOLhyphen"/>teous.</hi>
+                     </item>
+                     <item>
+                        <hi>7.</hi> How much hurt it hath done in ſhouldring and thruſting out many <hi>godly, painful, ſoul-ſaving Preachers;</hi> and in bringing in, and main<g ref="char:EOLhyphen"/>taining ſo many <hi>ignorant, ſcandalous, lazy</hi> and <hi>formal</hi> Prieſts and Curates, to the deceiving and utter undoing of precious Souls.</item>
+                     <item>
+                        <hi>8.</hi> Whether the impoſing of the <hi>Scottiſh Li<g ref="char:EOLhyphen"/>turgy</hi> (which in ſome things was better, though in ſome others worſe than the Engliſh) was not the <hi>beginning,</hi> and <hi>firſt Cauſe</hi> of the late grie<g ref="char:EOLhyphen"/>vous Wars; and if ſo, whether men ſhould not be more cautious to do the like for the future?</item>
+                     <item>
+                        <hi>9.</hi> Whether if the Truth were <hi>thorowly</hi> and
+<pb facs="tcp:108883:3"/>
+                        <hi>truly</hi> weighed and examined, the firſt end of compoſing the <hi>Common-Prayer-Book</hi> (which doth ſo much ſymbolize with the <hi>Maſs</hi>) was not, to bring <hi>Papiſts</hi> to Church: but it effected ſo lit<g ref="char:EOLhyphen"/>tle therein (not becauſe they ſo much diſlike it, as becauſe it was not in Latine, and <hi>commanded by the Pope</hi>) that it did rather confirm them in their <hi>Maſs-Service.</hi>
+                     </item>
+                     <item>
+                        <hi>10.</hi> Whether ſome now may not intend by the re-eſtabliſhing of this Book, to oppoſe and pull down that excellent and gracious Spirit of <hi>Prayer</hi> and <hi>Preaching,</hi> which God hath poured out upon his Miniſters; and to make this a <hi>Snare</hi> and <hi>Net</hi> againſt all <hi>Preachers</hi> and <hi>People,</hi> that out of <hi>Conſcience</hi> cannot conform thereto.</item>
+                     <item>
+                        <hi>11.</hi> Whether any Perſons can produce any ſuch <hi>Liturgie,</hi> or ſuch Form of Prayer from the be<g ref="char:EOLhyphen"/>ginning of the World, either among the <hi>Jews</hi> or <hi>Gentiles,</hi> till above three hundred years after Chriſt, when Antichriſt began to exerciſe <hi>Papal Power?</hi>
+                     </item>
+                     <item>
+                        <hi>12.</hi> Whether if there were no other Reaſon but that this <hi>Book</hi> hath been ſo much <hi>idolized</hi> by the generality of men, and <hi>offenſive</hi> to ſo ma<g ref="char:EOLhyphen"/>ny Chriſtians, it ſhould not be done with as the <hi>Brazen Serpent</hi> was by <hi>Hezekiah? 1 King. 18.4.</hi>
+                     </item>
+                     <item>
+                        <hi>13.</hi> Whether one <hi>end</hi> of Chriſts coming into, and one <hi>part</hi> of his work in the world, was not to redeem men from the <hi>Rudiments</hi> and <hi>Tradi<g ref="char:EOLhyphen"/>tions</hi> of men? of which this is one. And whether it be not a Sin againſt the <hi>Blood, Spirit,</hi> and <hi>Goſpel</hi> of Christ, to impoſe, maintain and con<g ref="char:EOLhyphen"/>tinue
+<pb facs="tcp:108883:4"/>still to uſe the ſame? <hi>1 Pet. 1.18, 19. Heb. 9.10, 11.</hi>
+                     </item>
+                     <item>
+                        <hi>14.</hi> They that worſhip God in a falſe way, are ſaid in Scripture to worſhip Devils, <hi>Lev. 17.7. Deut. 32.17. 2 Chron. 11.17. 1 Cor. 10.20.</hi>
+                     </item>
+                     <item>
+                        <hi>15.</hi> Whether at the <hi>great</hi> and <hi>terrible</hi> Day of judgement, any <hi>Magiſtrates, Miniſters</hi> or <hi>People</hi> can juſtifie before <hi>Chriſt</hi> the <hi>making, impoſing, reading</hi> or <hi>hearing</hi> of this or the like Service? (And whether good men as far as they build with this Material, will not then ſuffer loſs?) And whether thoſe can then ſtand in the Judgement without fear, ſhame and ſorrow, that have caſt out, perſecuted, impriſoned, or other<g ref="char:EOLhyphen"/>wiſe afflicted the true <hi>Preachers</hi> and <hi>Servants</hi> of God, who did chuſe to obey <hi>GOD</hi> rather than men, and to obſerve <hi>His Divine Will,</hi> rather than <hi>Mens Traditions?</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>Conſider what I ſay, and the Lord give thee</hi> (you) <hi>underſtanding in all things, 2</hi> Tim. <hi>2.7.</hi>
+            </p>
+            <p>
+               <hi>I eſteem all thy Precepts concerning all things to bee right, and I hate every falſe way,</hi> Pſal. <hi>119.128.</hi>
+            </p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:108883:4"/>
+            <head>Againſt Impoſing the Common-Prayer-Book: COLLECTIONS OUT OF <hi>SM. EC. TY. MN. <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>S.</hi> Dedicated and preſented to the Lords and Commons in Parliament.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>N Page 5.</hi> that the firſt and purer times knew no ſtinted <hi>Liturgy,</hi> as it appears from <hi>Tertullian</hi> (in <hi>Apol. 9. cap. 30. Epiſt. 121.</hi>) who ſaith, The Chriſtians of thoſe times prayed, <hi>Sine monitore quia de pectore;</hi> That is, without any Prompter, but their own hearts. <hi>Auſtin</hi> alſo telleth us, <hi>Liberum eſt,</hi> it is free for us to ask the ſame things in the Lords Prayer, <hi>aliis atque aliis verbis</hi> — ſometimes one way, and ſometimes another: and <hi>Juſtin Martyr</hi> tells us, Hee who instructed the people, prayed according to his ability, <hi>p. 7.</hi> yet have ſome Biſhops blaſphemed the Spirit of Prayer, and many able, learned, conſcientious Preachers have been moleſted, and ſuſpended, for letting
+<pb facs="tcp:108883:5"/>the conſtant flames of their fixed conceptions mount up from the Altar of their zealous heart, unto the Throne of grace — <hi>p. 8.</hi> their tongues alſo have raged againſt this way of Prayer, have ſealed up the mouths of Miniſters for praying thus in publick, and impoſed Penances on private Chriſtians for praying thus in their Families, and compelled to abjure this practice, endeavouring with raging violence to baniſh this Divine Ordinance from our Churches and Dwel<g ref="char:EOLhyphen"/>lings, profeſsing in open Court, it was fitter for <hi>Am<g ref="char:EOLhyphen"/>ſterdam,</hi> than for our Churches — as did Doctor <hi>Corbet,</hi> Mr. <hi>Nevil;</hi> and all this in behalf of that <hi>Book of Common-Prayer,</hi> the Original whereof is publiſhed in that Proclamation of King <hi>Edward</hi> the Sixth, <hi>p. 9.</hi> which they ſo rigorouſly preſſed, to the caſting out of all that ſcruple it, or any thing in it, to the (almost) juſtling out the preaching of the Word, and conceived Prayer, together; — which yet was taken out of Models from <hi>Rome,</hi> and hath ſince the firſt compiling of it, ſuffered alteration, to the worſe; and ſo ſymbolizeth with the Popiſh Maſs, as that the Pope himſelf was willing to have it uſed, if he might but confirm it — for the end of it was on purpoſe to bring the Papiſts to our Churches; but rather it hath brought many of us to them, not any of them to us; the clogging it with Ceremonies, the often and impertinent reiterating of the Lords Prayer, the ill tranſlation of the Pſalms, and of the Scriptures; the many phraſes in the Prayers that are liable to juſt exception. And where<g ref="char:EOLhyphen"/>as the Miniſter by the Scripture is the peoples mouth to God, this Book preſcribes Reſponſaries to be ſaid by the people, ſome of which are unſuitable to what the Mi<g ref="char:EOLhyphen"/>niſter pronounceth; ſome of them ſavour of Tautologies,
+<pb facs="tcp:108883:5"/>ſome are made to be ſo effectual to the Prayer, as that all which the Miniſter ſaith, is no prayer without them, as in the Letany — <hi>p. 10.</hi> Again, it is ſo much idolized, as that it is accounted the onely worſhip of God, and is made the upholder of an un<g ref="char:EOLhyphen"/>preaching Miniſtry, and is cried up to the height, ſo that ſome are not aſhamed to ſay, <hi>That the wit of Men and Angels cannot mend it,</hi> and that <hi>it is a ſufficient diſcharge of the Miniſters Duty to read this Book.</hi> —</p>
+            <floatingText xml:lang="eng" type="excerpt">
+               <body>
+                  <head>
+                     <hi>Abbots</hi> Church-forſakers.</head>
+                  <p>The end of its firſt uſe was, not to tye godly men from exerciſing their gifts in Prayer; but the eld Po<g ref="char:EOLhyphen"/>piſh Prieſts, that by a ſeeming to return to our Religion, did through indulgence retain their places, from re<g ref="char:EOLhyphen"/>turning to the old Maſs, which yet did hinder Miniſters (that had the gift of Prayer in an abundant meaſure, as well as of preaching) <hi>p. 10.</hi> In Biſhop <hi>Wren's</hi> daies, who forbid all uſe of conceived Prayer in the Church.</p>
+               </body>
+            </floatingText>
+            <p>Thus much from that Book, called <hi>Smectymnuus.</hi>
+            </p>
+            <p>That Book for its worth, and preſent uſe, is newly re<g ref="char:EOLhyphen"/>printed, <hi>Anno 1660.</hi> for <hi>Jo. Rothwel.</hi>
+            </p>
+            <p>Republiſhed by Mr. <hi>Manton,</hi> who prefixed his E<g ref="char:EOLhyphen"/>piſtle.</p>
+            <p>In the Common-Prayer-Book unmasked, is ſhew<g ref="char:EOLhyphen"/>ed its unlawfulneſs.</p>
+            <p n="1">
+               <hi>I. Page 4.</hi> By its Name <hi>Liturgy,</hi> or <hi>Service,</hi> ſo the Papiſts call their Maſs, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">
+               <pb facs="tcp:108883:6"/>
+               <hi>II. Page 7.</hi> By its original, taken from the Maſs-Book.</p>
+            <list>
+               <item>
+                  <hi>1.</hi> The Common-Prayers, from the Popiſh Breviary.</item>
+               <item>
+                  <hi>2.</hi> The Adminiſtration of the Sacraments, Burial, Viſitation of the ſick, and Matrimony, from their Ritual.</item>
+               <item>
+                  <hi>3.</hi> The Conſecration of the Lords Supper, the Col<g ref="char:EOLhyphen"/>lects, Epiſtles and Goſpels, from the Maſs-Book.</item>
+               <item>
+                  <hi>4.</hi> The Ordination of Biſhops, Prieſts and Deacons (which at firſt was joyned to the Service-Book) from the <hi>Roman</hi> Pontifical.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:108883:6"/>
+            <head>Common-Prayer-Book NO Divine Service, &amp;c.</head>
+            <p>Queſt. <hi>
+                  <seg rend="decorInit">W</seg>Hether is it lawful for Magiſtrates, Mi<g ref="char:EOLhyphen"/>niſters, or any other Perſons, to form, or make a ſtinted Liturgy, or Common-Prayer-Book, and to impoſe the ſame?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is not lawful.</p>
+            <p>
+               <hi>Reaſ.</hi> 1. Becauſe no Magiſtrate, Miniſter, nor any other perſons under Heaven, can produce any authority for ſo doing; if ſuch power can be produced from God, let <hi>Commands,</hi> or any <hi>Inſtances</hi> or <hi>Examples</hi> thereof bee ſhewn out of the Scriptures: if not, let any preſume up<g ref="char:EOLhyphen"/>on their uttermoſt peril to introduce the ſame. And whereas ſome ſay it is not forbidden in the Scriptures, that is anſwered more fully afterwards, under the firſt Objection. But,</p>
+            <p>
+               <hi>Reaſ.</hi> 2. Becauſe it is forbidden, both in the <hi>ſecond Com<g ref="char:EOLhyphen"/>mandement,</hi> and in other Scriptures, which I prove thus: The <hi>Ordinances, Traditions,</hi> and <hi>Rudiments</hi> of men in the Worſhip of God, are forbidden in the ſecond Com<g ref="char:EOLhyphen"/>mandement, as Expoſitors generally affirm [ſee Biſhop <hi>Andrews, Dod, Byfield,</hi> and others on the ſecond Com<g ref="char:EOLhyphen"/>mandement] and in other Scriptures, <hi>Deut.</hi> 4.2. &amp; 12.32. <hi>Mat.</hi> 15.9. <hi>Col.</hi> 2.20.</p>
+            <p>But <hi>ſtinted Liturgies,</hi> or <hi>Common-Prayer-Books,</hi> are the <hi>Ordinances, Traditions,</hi> and <hi>Rudiments</hi> of men, [and not as the Doctrine and Baptiſm of <hi>John,</hi> from Heaven.] There<g ref="char:EOLhyphen"/>fore <hi>Liturgies,</hi> or <hi>Common-Prayer-Books</hi> are forbidden in the ſecond Commandement, and in other Scriptures.</p>
+            <p>
+               <pb n="2" facs="tcp:108883:7"/>
+But whereas it is <hi>objected,</hi> that the <hi>Modes</hi> and <hi>Circum<g ref="char:EOLhyphen"/>ſtances</hi> of Worſhip are left to the determination of men; ſee the <hi>Anſwer</hi> to the ſecond <hi>Objection.</hi>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 3. Becauſe this teaches vain Worſhip, or to Worſhip God in a vain way; it being like the Traditions of the Elders, <hi>Mat.</hi> 15.9, 10. <hi>Mark</hi> 7.7, 8.</p>
+            <p>Obj. <hi>But the Jewiſh Elders rejected the Commandements of God, which we do not.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> So do all thoſe that do not worſhip God in the ſpirit and truth, according to his Word, <hi>Iſa.</hi> 29.33. <hi>John</hi> 4.20, 24.</p>
+            <p>
+               <hi>Reaſ.</hi> 4. That onely which is needful, in the Worſhip of God, is to be made, and impoſed; but a <hi>Liturgy,</hi> or <hi>Common-Prayer-Book</hi> is not needful in the worſhip of God: therefore a <hi>Liturgy,</hi> or <hi>Common-Prayer-Book</hi> is unlawful to be made or impoſed. The Major, or firſt Propoſition is clearly proved, <hi>Act.</hi> 15.28. the Minor or latter I prove thus,
+<list>
+                  <item>1. The Scriptures themſelves are a ſufficient <hi>Directory</hi> and <hi>Rubrick</hi> to the Church of God, and to make the man of God perfect, 2 <hi>Tim.</hi> 3.15, 16.</item>
+                  <item>2. If it had been needful, then doubtleſs <hi>Moſes</hi> who was faithful in his Houſe,<note place="margin">Heb. 3 5, 6.</note> as a Servant, or Chriſt who was more faithful as a Son, would have enjoyned the ſame: but neither of them did ſo.</item>
+                  <item>3. It is not neceſſary, becauſe the Churches of God did thrive and grow beſt of all, <hi>when</hi> (as in the <hi>Primitive</hi> times) and <hi>where</hi> there was none.</item>
+                  <item>4. Becauſe the Miniſters of Chriſt, and his Goſpel, ought to be ſo gifted, as not to need it, <hi>Rom.</hi> 12.6, 7, 8. 1 <hi>Cor.</hi> 12.6, 7, 8, 9, 10. compared with 1 <hi>Cor.</hi> 14.13, 14, 15. <hi>James</hi> 5.14.</item>
+               </list>
+            </p>
+            <p>Object. <hi>But ſome Miniſters may bee without the gift of Prayer.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi>
+               <note place="margin">1 King. 12.31. Levit. 21. Iſa. 56.</note> Yes, ſome accounted <hi>Miniſters;</hi> but ſuch are liker <hi>Jeroboam's</hi> Simpletons, the <hi>blemiſhed Prieſts</hi> under the Law, and the <hi>Dumb Doggs</hi> which the Prophet reproves, than Goſpel-Miniſters.</p>
+            <p>
+               <pb n="3" facs="tcp:108883:7"/>
+               <hi>Reaſ.</hi> 5. Becauſe none of the godly <hi>Magiſtrates</hi> in the Old Teſtament (though thoſe times did more require them, than the daies of the Goſpel) did form or enjoyn any ſuch <hi>Liturgy.</hi>
+            </p>
+            <p>If it be objected, and ſaid, <hi>That there were Liturgies in the Jewiſh Church, and in the daies of the Old Teſtament.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Though that can hardly be proved, yet admit there were: ſo there were <hi>Idols, Altars, Groves,</hi> and many ſuch things, which they <hi>idolatrouſly</hi> and <hi>ſuperſti<g ref="char:EOLhyphen"/>tiouſly</hi> ſet up, without any authority from God.</p>
+            <p>
+               <hi>Reaſ.</hi> 6. Becauſe the Churches of Chriſt are not edified thereby; and what is not to edification, ought not to be in the Churches, 1 <hi>Cor.</hi> 14.26. <hi>Epheſ.</hi> 4.12, 16.</p>
+            <p>Obj. <hi>But divers have gotten benefit by ſuch Liturgies.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> So have many by the Writings of divers of the <hi>Papiſts</hi> (yea, <hi>Heathens</hi>) nay ſome have gotten good by the <hi>Sins</hi> of others, and by the <hi>Judgements</hi> that befel their ſin<g ref="char:EOLhyphen"/>ful Companions; as <hi>Waldus</hi> was converted by ſeeing his companion fall down dead, by the immediate ſtroke and hand of God: and one was converted by ſeeing a true Chriſtian hanged wrongfully: it doth not therfore follow that <hi>evil may be done, that good may come thereby,</hi> Rom. 3.8.</p>
+            <p>
+               <hi>Reaſ.</hi> 7. Becauſe that which is to be a <hi>form,</hi> and <hi>rule,</hi> ought to be a form and rule for all the Churches of Chriſt, <hi>Act.</hi> 15.28. &amp; 16.4. 1 <hi>Cor.</hi> 4.17. &amp; 14.33. &amp; 16.1. &amp; 7.17. But ſuch a <hi>Form</hi> or <hi>Liturgy</hi> cannot poſſibly (at leaſt probably) be formed by meer men, becauſe neither the Magiſtrates, nor Miniſters of all Nations where Churches are, can poſſibly be brought, either <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, either <hi>into one place</hi> to debate, or <hi>into one Judgement</hi> to determine it: an experience of this we had in the two Nations of <hi>England</hi> and <hi>Scotland</hi> (though un<g ref="char:EOLhyphen"/>der the ſame King) yet the Liturgy formed for and in<g ref="char:EOLhyphen"/>tended to be impoſed upon the <hi>Scots,</hi> was different in divers things from that eſtabliſhed in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 8. Becauſe the ſetting up of ſuch a form, is equal to the ſetting up of mens <hi>Threſholds by Gods Threſhold, and Poſts by his Poſts,</hi> by which they defiled the Name of God, <hi>Ezek.</hi> 43.8.</p>
+            <p>
+               <pb n="4" facs="tcp:108883:8"/>
+               <hi>Reaſ.</hi> 9. No man, or men in theſe daies, can pretend to have ſuch an infallibility of ſpirit, as either to <hi>compoſe,</hi> or <hi>enjoyn</hi> a perfect Rule for others; and if it be not perfect, they cannot tye any <hi>Saint,</hi> much leſs the Churches of Chriſt thereto: for the <hi>Rule</hi> of faith and obedience ought to be perfect, <hi>Pſal.</hi> 119.128. <hi>Iſa.</hi> 8.20.</p>
+            <p>
+               <hi>Reaſ.</hi> 10. Becauſe all Prayers are to be made in the Spi<g ref="char:EOLhyphen"/>rit, as well publick as private, <hi>Epheſ.</hi> 6.18. <hi>Jude</hi> 19, 20.</p>
+            <p>Obj. <hi>But may not men pray in the Spirit, and uſe a Form too?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is not denied, but that good men may pray by a form, and yet in ſome ſenſe pray in the Spirit too; but ſince that it is the proper work of the Spirit, <hi>to help the infirmi<g ref="char:EOLhyphen"/>ties of the Saints</hi> as well in <hi>matter,</hi> and <hi>expreſſions,</hi> as <hi>ſighs and groans,</hi> Rom. 8.26. what need they uſe ſtinted forms? or how can they tye up themſelves ſtrictly to thoſe <hi>forms,</hi> without <hi>limiting, ſtinting,</hi> and <hi>quenching the Spirit?</hi>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 11. Becauſe the forming and impoſing of ſuch a Book, is to exerciſe dominion over the Faith of Gods people contrary to what the Apoſtles did, 2 <hi>Cor.</hi> 1.24.</p>
+            <p>
+               <hi>Reaſ.</hi> 12. Becauſe if it be allowed that Rulers have ſuch a power in one <hi>Country,</hi> or <hi>Nation,</hi> it muſt be granted <hi>(A pariratione)</hi> that the Rulers of all Nations and Countries, (at leaſt that profeſs Chriſtianity) have power to do the ſame: for their power from God is the ſame (though their Principles to exerciſe their power be not) eſpecially ſince the diſſolution of the <hi>Jewiſh</hi> Government. Thence it will neceſſarily follow, That where there are <hi>Arrian Rulers</hi> (who deny the <hi>Divinity of Chriſt</hi>) they may put up a Li<g ref="char:EOLhyphen"/>turgy ſuitable to their Judgements, <hi>Popiſh Rulers</hi> may form and impoſe a <hi>Liturgy</hi> according to their <hi>Popiſh Prin<g ref="char:EOLhyphen"/>ciples,</hi> and ſo conſequently all other <hi>Rulers,</hi> be they <hi>Hea<g ref="char:EOLhyphen"/>themſh, Turkiſh, &amp;c.</hi> may do the like.</p>
+            <p>
+               <hi>Reaſ.</hi> 13. It will alſo follow, that as oft as the <hi>Go<g ref="char:EOLhyphen"/>vernours,</hi> or chief <hi>Magiſtrates</hi> of the ſame <hi>Nation,</hi> or <hi>Nations,</hi> do alter in their Opinions, the <hi>Liturgy</hi> muſt alſo be altered: an inſtance of which we have on Record in the <hi>Brother</hi> and two <hi>Siſters,</hi> King <hi>Edward</hi> the Sixth,
+<pb n="5" facs="tcp:108883:8"/>Queen <hi>Mary,</hi> and Queen <hi>Elizabeth,</hi> who ruled by im<g ref="char:EOLhyphen"/>mediate ſucceſſion in the ſame Nation, and yet their three Liturgies did differ, as they are yet to be ſeen.</p>
+            <p>
+               <hi>Reaſ.</hi> 14. That which doth unavoidably expoſe many Chriſtians to ſin againſt their <hi>Conſciences,</hi> or to ſuffer for not ſo ſinning, is unlawful; but formed, and impoſed <hi>Liturgies,</hi> do unavoidably do either, therefore they are unlawful. The Major none will deny, the Minor is proved thus: In all, or moſt Nations, where ſuch <hi>Liturgies</hi> are (and true Chriſtians too) ſome, if not moſt of them do conſcientiouſly ſcruple either the whole <hi>Liturgy,</hi> or ſome <hi>part</hi> thereof, and cannot with faith (and therefore not without ſin, <hi>Rom.</hi> 14.23.) conform thereunto; and if they conform not, they ſuffer: multitudes of Inſtances (both of godly <hi>Preachers</hi> and <hi>Profeſſors</hi>) might be given, as in <hi>Q. E. K. J.</hi> and <hi>K. C.</hi> reign, where ſome were hanged (as <hi>Barrow, Penry,</hi> and <hi>Greenwood</hi>) and many im<g ref="char:EOLhyphen"/>priſoned and caſt out of their places, and neceſſitated to fly to ſtrange Countries, becauſe they could not conform to the <hi>Rubrick;</hi> and <hi>Rules</hi> in the publick Liturgies, &amp;c.</p>
+            <p>
+               <hi>Reaſ.</hi> 15. Becauſe the making and impoſing of ſuch a form doth maintain <hi>National Churches</hi> in the daies of the New Teſtament, which doubtleſs is contrary to the Goſ<g ref="char:EOLhyphen"/>pel, which ſaith,<note place="margin">Act. 10.35.</note> 
+               <hi>That in every Nation hee that feareth God, and worketh Righteouſneſs, is accepted of him.</hi> And the Apoſtle ſpeaks of the Churches of <hi>Judea, Galatia,</hi>
+               <note place="margin">1 Cor. 16.1. 1 Cor. 16.19. Revel. 1.4.</note> 
+               <hi>Macedonia, Aſia,</hi> but never of any National Church ſince the partition-wall (between <hi>Jews</hi> and <hi>Gentiles</hi>) was pulled down.</p>
+            <p>Obj. <hi>But doth not the Lord promiſe he will ſprinkle many Nations?</hi> Iſa. 52.15.</p>
+            <p>
+               <hi>Anſ. Paul</hi> expounds that of the <hi>Gentile Beleevers,</hi>
+               <note place="margin">Rom. 15.21. Rom. 4.17. Gal. 3.29.</note> who were ſprinkled with the blood and Spirit of Chriſt, as <hi>Abraham</hi> is called the Father of many Nations; that is, of the Beleevers in many or every Nation.</p>
+            <p>Obj. <hi>But it is ſaid, that a Nation ſhall be born in one day,</hi> which is a Goſpel-Prophecy, <hi>Iſa.</hi> 66.6, <hi>and in the</hi> 1 <hi>of Pet.</hi> 2.9. <hi>Yee are a holy Nation.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:108883:9"/>
+               <hi>Anſ.</hi> Some (as the <hi>Dutch</hi> Tranſlators) tranſlate the word <hi>Nation</hi> in <hi>Eſay, People,</hi> and expound it of thoſe that are converted among the <hi>Gentiles,</hi>
+               <note place="margin">1 Pet. 5.1. Rom. 11.26.</note> and not any whole Nation; others underſtand it of the <hi>Nation of the</hi> Jews, and that this place relates to the laſt and general calling and <hi>converſion</hi> of them;<note place="margin">1 Pet. 1.1.</note> and for that in <hi>Peter,</hi> it cannot be underſtood of any particular <hi>Nation,</hi> for hee writes to people of ſeveral Nations or Provinces (in ſome of which, if not in all, were many Churches, as in <hi>Galatia,</hi> &amp; <hi>Aſia</hi>) and it is evident hee means there the beleevers,<note place="margin">1 Cor. 16. Rev. 1.4.</note> or godly, and he calls them <hi>a holy Nation,</hi> with relation to the <hi>Nation of the Jews,</hi> which was formerly a Nation ſepa<g ref="char:EOLhyphen"/>rated by God from all other Nations.</p>
+            <p>
+               <hi>Reaſ.</hi> 16. That which: tends to make the <hi>ſeed of the Woman,</hi> and the <hi>ſeed of the Serpent</hi> one, and to yonk be<g ref="char:EOLhyphen"/>leevers and unbeleevers together in Church-Communi<g ref="char:EOLhyphen"/>on, and Worſhip, is contrary to the Scriptures, <hi>Gen.</hi> 3.15. 2 <hi>Cor.</hi> 6.14. and therefore unlawful: But the form<g ref="char:EOLhyphen"/>ing and making of ſuch ſtinted <hi>Liturgies,</hi> or <hi>Common-Prayer-Books</hi> doth ſo, for it is the main end of making them, <hi>viz.</hi> to bring all the people in a Nation to bee of one form and way of worſhip.</p>
+            <p>
+               <hi>Reaſ.</hi> 17. That which the wickedeſt people do earneſt<g ref="char:EOLhyphen"/>ly deſire, and willingly obſerve, is commonly unlawful, <hi>Jer.</hi> 44.15, 16. <hi>Act.</hi> 19.28, 29. but the wickedeſt people do earneſtly deſire and obey ſuch <hi>Liturgies,</hi> and <hi>Com<g ref="char:EOLhyphen"/>mon-Prayer-Books, Ergo.</hi> The Major is proved, <hi>Exod.</hi> 32.1, <hi>&amp;c. Hoſ.</hi> 5.11. and in many other places; the Mi<g ref="char:EOLhyphen"/>nor is ſufficiently proved by general and daily experi<g ref="char:EOLhyphen"/>ence among us, for we finde moſt of the wicked (who care not for the pure Ordinances of God) as mad for this as the people were formerly upon their Idols.<note place="margin">Jer. 50.38.</note>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 18. Becauſe the beſt <hi>Rulers</hi> and <hi>Reformers</hi> in <hi>Judah,</hi> when they did reform, did no ſuch thing, but ra<g ref="char:EOLhyphen"/>ther ſearched the Word of God, and brought back the people to Gods Inſtitution, and did not fet up any in<g ref="char:EOLhyphen"/>vention of their own. See <hi>Joſh.</hi> 1.8. with 12.13. 2 <hi>Chron:</hi> 17.9. and 34.15. to the 21. <hi>Nehem.</hi> 8.1, 3, 8. <hi>Ezra.</hi> 6.18.</p>
+            <p>
+               <pb n="7" facs="tcp:108883:9"/>
+               <hi>Reaſ.</hi> 19. To put a <hi>burden</hi> or <hi>yoke</hi> upon the neck of Chriſts Diſciples, which he hath not put, is unlawful, <hi>Act.</hi> 15. But to form and impoſe any ſuch <hi>Liturgies,</hi> is to put a <hi>yoke</hi> upon the neck of Chriſts Diſciples: for ma<g ref="char:EOLhyphen"/>ny of them (that are beſt able to judge thereof) have complained of them, as <hi>Burdens and Yokes.</hi>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 20. Becauſe there can be no bleſſing expected upon ſuch <hi>Liturgies</hi> and <hi>Forms,</hi> becauſe they are not commanded of God: for the bleſſings are promiſed to the obſervers and keepers of his commandements only, <hi>Exod.</hi> 23.25. <hi>Deut.</hi> 7.9. and 28.2.</p>
+            <p>
+               <hi>Reaſ.</hi> 21. Either ſuch Liturgies or Common-Prayers are indifferent, or not indifferent; if indifferent, then they are not to be impoſed upon Chriſtians, but they are to be left to their liberty (as Chriſtians were left by the Apoſtles) but if it is not indifferent,<note place="margin">Act. 15.29.</note> then unleſs a <hi>Pre<g ref="char:EOLhyphen"/>ſcript</hi> can be ſhewed from God (it being in his Service) it is no leſs than Will-worſhip, forbidden, <hi>Col.</hi> 2.23.</p>
+            <p>
+               <hi>Reaſ.</hi> 22. To joyn an imperfect thing with a perfect, for to be a Rule, is to debaſe the perfect, but to form and impoſe Liturgies, or Common-Prayer-Books, is to do ſo, <hi>Ergo,</hi> &amp;c. The Major is an Axiom among the learn<g ref="char:EOLhyphen"/>ed, as Biſhop <hi>Andrews</hi> ſhews: the Minor is proved thus,<note place="margin">See Doctor <hi>An<g ref="char:EOLhyphen"/>d ews</hi> upon the ſecond Com<g ref="char:EOLhyphen"/>mandement.</note> The beſt Liturgies are imperfect (particularly the <hi>Engliſh</hi> Liturgy, as will abundantly appear, in anſwer to the next Queſtion) and the Scripture is perfect, 2 <hi>Tim.</hi> 3.15, 16, 17. And to uſe theſe at the ſame Time, and for the ſame End (which is done as a Rule) is to joyn them together.<note place="margin">
+                  <hi>Tertul.</hi> Apol. chap. 39. The Chriſtians, ſaith he, pray<g ref="char:EOLhyphen"/>ed, <hi>Sine moni<g ref="char:EOLhyphen"/>tore quia de pecto e,</hi> with<g ref="char:EOLhyphen"/>out a Promp<g ref="char:EOLhyphen"/>ter, but their own hearts.</note>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 23. That which was not among the Churches of Chriſt, either in the Apoſtles daies, or for two hundred years after, is unlawful, but a ſtinted <hi>Liturgy,</hi> or <hi>Common-Prayer-Book</hi> was neither in the Apoſtles daies, nor for two hundred years after, <hi>Ergo,</hi> &amp;c. The Major cannot be denied; for proof of the Minor, <hi>Tortullian,</hi>
+               <note n="†" place="margin">
+                  <hi>Juſt. Mart. Apol.</hi> 2. Hee who inſtracted the people, prayed according to his ability.</note> 
+               <hi>Juſtin Mar<g ref="char:EOLhyphen"/>tyr,</hi> &amp;c. clearly ſhew, that in their daies there were no ſuch, neither in <hi>Conſtantines</hi> time, for he made forms him<g ref="char:EOLhyphen"/>ſelf
+<pb n="8" facs="tcp:108883:10"/>for his ſouldiers to uſe upon Lords Daies, which doubtleſs he would not have done, if there had been a publick <hi>Liturgy.</hi>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 24. Becauſe the <hi>Elements</hi> and <hi>Rudiments</hi> of the world (as theſe are) tend to lead men from Chriſt, and into bondage again, which is abſolutely condemned, <hi>Col.</hi> 2.8. <hi>Gal.</hi> 4.3.</p>
+            <p>
+               <hi>Reaſ.</hi> 25. Becauſe if in matters of Religion the word of God onely muſt, and doth prevail with, and binde mens conſciences, then to impoſe any <hi>Traditions</hi> of men (which theſe Liturgies are) is to no purpoſe; but the former is true, <hi>Deut.</hi> 12.32. <hi>Mot.</hi> 15.19. And to ſet up a thing to no purpoſe, what wiſe or good men will indeavour?</p>
+            <p>
+               <hi>Reaſ.</hi> 26. Becauſe the forming and ſetting up ſuch Li<g ref="char:EOLhyphen"/>turgies, doth derogate from Chriſt, as he is both <hi>Prophet</hi> and <hi>King,</hi>
+               <note place="margin">Heb. 3.6. James 4.12.</note> as if he had not leſt ſufficient means and Laws for his Churches to be guided and ruled by.</p>
+            <p>
+               <hi>Reaſ.</hi> 27. But God may (doubtleſs) ſay of this, as hee ſaid of another peece of unrequired ſervice;<note place="margin">Jer. 19.5.</note> 
+               <hi>They have built, &amp;c. which I commanded not, nor ſpake it, neither came it into my minde.</hi>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 28. That which God doth not require is unlaw<g ref="char:EOLhyphen"/>ful; but the forming of ſuch Liturgies, and impoſing of them God doth not require, therefore the making and impoſing of a Liturgy is not lawful: if he doth require, ſhew <hi>when, where,</hi> and by <hi>whom,</hi> and the controverſie is ended.</p>
+            <div type="objections_and_answers">
+               <head>The main Arguments for ſtinted Liturgies (or Common-Prayer-Books) ſtated in Objections, and briefly anſwered.</head>
+               <p>Object. 1.</p>
+               <p>
+                  <hi>THat which is not directly, or conſequentially for bidden by God, is lawful; but Liturgies are not forbidden direct<g ref="char:EOLhyphen"/>ly or conſequentially, therefore lawful.</hi>
+               </p>
+               <p>
+                  <pb n="9" facs="tcp:108883:10"/>
+                  <hi>Anſ.</hi> 1. In <hi>Civil</hi> and meer <hi>Indifferent</hi> things, the Major or firſt Propoſition may hold; but in ſpiritual things, and matters relating to the worſhip of God, it will not: for men are not to practice therein upon <hi>Negatives,</hi> but upon <hi>Poſitive</hi> and <hi>plain Commands</hi> or <hi>Examples.</hi> For,
+<list>
+                     <item>1. Conſider, that under the Old Teſtament all things re<g ref="char:EOLhyphen"/>lating to the Worſhip of God, were to be done accor<g ref="char:EOLhyphen"/>ding to the <hi>pattern</hi> given by God to <hi>Moſes,</hi> as concerning the <hi>Tabernacle, Candleſtick, Altar:</hi>
+                        <note place="margin">Exod. 25.9, 40. &amp; 26.30. &amp; 27.15. Numb. 8.4. Heb. 8.5. 1 Chron. 28.11, 19. 1 King. 6 38. Ezek. 43.10, 11, 12, 13, &amp;c. Exo. 34.27, 33. Iſa. 8. Ezek. 3.4. Hag. 1.3, 4, 13. John 7.16. &amp; 17.6, 7.</note> ſo like wiſe <hi>David</hi> had the Pattern of all that he had (or did) <hi>by the ſpirit, of the Courts of the houſe of the Lord, and of all the chambers round about:</hi> and as he ſaith, <hi>The Lord made me underſtand in wri<g ref="char:EOLhyphen"/>ting by his hand upon me, even all the works of this Pattern.</hi>
+                     </item>
+                     <item>2. The ſecond and third Temple, have clear and full directions and preſcriptions given by God, for every part of them, and in every particular.</item>
+                     <item>3. The Prophets directed the people in all things to ob<g ref="char:EOLhyphen"/>ſerve the Word of God, and the People of God obeyed that Word onely.</item>
+                     <item>4. In the daies of the New-Teſtament, <hi>John</hi> the <hi>Bap<g ref="char:EOLhyphen"/>tiſt,</hi> and our Saviour Chriſt, taught the People to obſerve nothing, but either what was written in the Scriptures, or what they had received from God.</item>
+                     <item>5. <hi>Paul</hi> alſo obſerves, and teaches all the Churches to whom he wrote,<note place="margin">1 Cor. 1.25. 1 Cor. 16.1.</note> to obſerve (in their Worſhipping of God) the ſame manner that was preſcribed, and appoin<g ref="char:EOLhyphen"/>ted by the Lord himſelf.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> If there be ſuch a latitude granted in things relating to the Worſhip of God, that any thing that is not forbidden may be introduced, what can hinder the Papiſts to bring in their five new <hi>Sacraments, Organs,</hi> and a hundred ſuch things, nay the <hi>Pope</hi> himſelf? and is it not upon that very ground that they, and the Biſhops uſhered in all their Popiſh <hi>Innovations,</hi> and <hi>Superſtitions?</hi> But the Minor is denied, <hi>Liturgies</hi> are forbidden (con<g ref="char:EOLhyphen"/>ſequentially) I prove thus,</p>
+               <p n="1">1. That which is not commanded in matters of Gods Worſhip, is forbidden; but ſtinted impoſed Liturgies are not commanded, therefore forbidden; the Ma<g ref="char:EOLhyphen"/>jor
+<pb n="10" facs="tcp:108883:11"/>is fully granted in the Aſſemblies Catechiſm, in the ſecond Queſtion, on the ſecond Commandement: But impoſed, ſtinted <hi>Liturgies</hi> cannot be proved by Scrip<g ref="char:EOLhyphen"/>tures, being an <hi>Innovetion,</hi> and born out of due time, to have the word of God father or own it.</p>
+               <p n="2">2. That which is a <hi>Tradition</hi> and <hi>Invention</hi> of men (in the Worſhip of God) is forbidden in the Scriptures, but this is a <hi>Tradition</hi> and <hi>Invention</hi> of men,<note place="margin">Deut. 5.32, 33. Mark 7. 8, 9. Tit. 1.14.</note> in the Worſhip of God: for who can or dare ſay, That any of theſe Liturgies are Oracles from God? If it be ſaid, <hi>That there is no Law againſt it,</hi> and <hi>therefore it is no ſin;</hi> There is Law from the mouth of the Law-giver himſelf, who ſaid (to the <hi>Jews</hi>) <hi>Why do you tranſgreſs the Commande<g ref="char:EOLhyphen"/>ment of God by your Traditions?</hi>
+                  <note place="margin">Mat. 15.3.</note>
+               </p>
+               <p>Obj. 2. <hi>The prudential determination of ſuch</hi> Modes <hi>and</hi> Circumſtances <hi>as God hath left to Humane determination, is lawful. But a ſtinted form is ſuch, therefore lawful.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> I grant that God hath left ſome <hi>Modes</hi> and <hi>Cir<g ref="char:EOLhyphen"/>cumstances</hi> to Humane determination; yet conſider that theſe are either,</p>
+               <p n="1">1. Meerly <hi>Civil</hi> and <hi>Natural,</hi> as matters relating to the outward man, as Civil and politick Laws and Govern<g ref="char:EOLhyphen"/>ment. Or,</p>
+               <p n="2">2. If there be any ſuch things left to the determination of men (as to conſider of the fitteſt day or hour to meet, or the convenienteſt place, &amp;c.) yet this is left to the de<g ref="char:EOLhyphen"/>termination of the <hi>Churches,</hi> and <hi>Societies</hi> of Chriſtians in their ſeveral places, and as occaſions fall out, and not to <hi>Magiſtrates</hi> or <hi>Miniſters</hi> only.</p>
+               <p n="3">3. If there were authority left in the hand of the <hi>Ma<g ref="char:EOLhyphen"/>giſtrate,</hi> or any other ſort of men (which cannot be pro<g ref="char:EOLhyphen"/>ved by Scripture) to appoint ſuch Circumſtances, yet how doth it appear that they may enjoyn and impoſe this under <hi>perſonal,</hi> or <hi>pecuniary</hi> puniſhment?</p>
+               <p n="4">4. Liturgies do determine more than <hi>Modes</hi> and <hi>Cir<g ref="char:EOLhyphen"/>cumſtances;</hi> for they appoint how all, or moſt of the parts of Gods Worſhip (as Prayer, adminiſtring the <hi>Sacra<g ref="char:EOLhyphen"/>ment,</hi> &amp;c.) ſhall be done. But laſtly,</p>
+               <p n="5">
+                  <pb n="11" facs="tcp:108883:11"/>
+5. If the Word of God doth direct in all the Circum<g ref="char:EOLhyphen"/>ſtances of Gods worſhip, either by <hi>command,</hi> or <hi>example,</hi> then is there no need of ſuch Liturgies. But the Word of God doth direct in thoſe Circumſtances, as for place, <hi>Joh.</hi> 4.23. 1 <hi>Tim.</hi> 2.8. in Synagogues, in Houſes, and on Mountains. For <hi>time,</hi> 2 <hi>Tim.</hi> 4.2. 2 <hi>Theſ.</hi> 5.17. For <hi>geſture,</hi> &amp;c. <hi>Luk.</hi> 22.14. <hi>Aob.</hi> 20.36. all which, with o<g ref="char:EOLhyphen"/>ther <hi>Circumſtances,</hi> may eaſily be proved.</p>
+               <p>Obj. 3. <hi>There are many expreſs Examples in Scripture for forms of Gods ſervice, therefore they are unqueſtionably lawful,</hi> as <hi>Pſalms, Songs, Praiſes, Bleſsings, and Prayers, as</hi> Pſal. 92. and 102. Exod. 15. Numb. 6. Mat. 6 parti<g ref="char:EOLhyphen"/>cularly the Lords Prayer.</p>
+               <p>
+                  <hi>Anſ.</hi> That there were <hi>Pſalms, Songs, Praiſes, Prayers,</hi> and <hi>Bleſsings,</hi> compoſed by the <hi>Praphats</hi> and <hi>Servants</hi> or God heretofore upon occaſions, is acknowledged. But yet,</p>
+               <p n="1">1. That thoſe holy men of God ſpake (and wrote) as they were moved by the Holy Ghoſt;<note place="margin">2 Pet. 1.21.</note> and had ſuch a ſpi<g ref="char:EOLhyphen"/>rit of infallibility in ſuch things; which no men ſince the Apoſtles daies can pretend to.</p>
+               <p n="2">2. What they then wrote (<hi>viz.</hi> their <hi>Prayers, Pſalms,</hi>
+                  <note place="margin">Rom. 15.4. 2 Tim. 3.16.</note> and <hi>Songs,</hi> &amp;c.) are now become Scripture, and are written for our learning.</p>
+               <p n="3">3. To argue from an <hi>extraordinary,</hi>
+                  <note place="margin">Ab extraordi<g ref="char:EOLhyphen"/>nario ad ordi<g ref="char:EOLhyphen"/>narium non eſt conſequentia.</note> to an ordinary pra<g ref="char:EOLhyphen"/>ctice, is not right, you may as well ſay, becauſe <hi>Moſes</hi> commanded every one to ſlay his Brother, therefore o<g ref="char:EOLhyphen"/>ther ordinary perſons may do ſo; or becauſe <hi>David</hi> divided the Prieſts into four and twenty Courſes, other Kings or Rulers may do the like with Goſpel-Miniſters; or becauſe <hi>Moſes</hi> and <hi>David</hi> wrote Canonical Scripture, therefore other perſons may do the like.</p>
+               <p n="4">4. For the Lords Prayer (ſo called) though it be not de<g ref="char:EOLhyphen"/>nied,<note place="margin">It may bee cal<g ref="char:EOLhyphen"/>led the Lerds Prayer, as that Sermon hee made on the Mount (with other Sermons) may bee called his, becauſe hee taught it; though it doth not appear that hee himſelf ever uſed it.</note> but that it may be uſed by any godly men (though not in the way it is by moſt, at the end of their own) yet it will be hard to prove it to be a form. Becauſe,</p>
+               <p n="1">
+                  <pb n="12" facs="tcp:108883:12"/>
+1. It was delivered by our Saviour at firſt as part of his Sermon on the Mount (which ſeems to be one of his firſt Sermons) and as a Direction to pray; as hee gives in the ſame place,<note place="margin">Mat. 6.</note> and at the ſame time, direction to faſt, and give almes.</p>
+               <p n="2">2. The two Evangeliſts do differ, in relating the Prayer, in ſeveral particulars, and <hi>Luke</hi> hath not the concluſion,<note place="margin">Luk. 11.</note> or the words, <hi>For thine is the Kingdome, and the power, and the glory for ever. Amen.</hi> If it muſt be u<g ref="char:EOLhyphen"/>ſed as a form, which of the two Evangeliſts muſt be imi<g ref="char:EOLhyphen"/>tated, ſeeing they thus differ?</p>
+               <p n="3">3. If it was given as a Form, and enjoyned and impo<g ref="char:EOLhyphen"/>ſed, then it was a ſin in the <hi>Apoſtles</hi> and <hi>Primitive</hi> Chri<g ref="char:EOLhyphen"/>ſtians, and others ſince, not to uſe it conſtantly: But it doth not appear that the Apoſtles did uſe it at all after<g ref="char:EOLhyphen"/>wards,<note place="margin">Act. 4.25. Eph. 1. 17, &amp;c. Col. 1. 9, &amp;c.</note> though we read of the Apoſtles <hi>joynt-prayers,</hi> and of many of <hi>Panls Prayers,</hi> yet therein is no mention thereof.</p>
+               <p>Obj. <hi>But doth not Chriſt,</hi> Luk. 11.2. <hi>command his Diſ<g ref="char:EOLhyphen"/>ciples to ſay,</hi> Our Father? <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The meaning ſeems to be this, that when one of Chriſts Diſciples did deſire Chriſt to teach them to pray, as <hi>John</hi> alſo taught his Diſciples, Chriſt did ſend them to the direction which he had given before in his preaching upon the Mount.</p>
+               <p>Obj. 4. <hi>It is lawful to pray to God in ſet words that wee finde in Scripture: but ſo to pray, is to pray in a form. There<g ref="char:EOLhyphen"/>fore a Form is lawful.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> For to uſe the ſame words in prayer, out of <hi>earneſt<g ref="char:EOLhyphen"/>neſs, vehemency,</hi> and <hi>Agony</hi> (and that by the Spirit) as <hi>Chriſt,</hi> and ſome of the <hi>Prophets</hi> did, at the ſame time, is no ground at all for men to form a whole Book of prayer, without any ſuch eminent impulſions of the Spi<g ref="char:EOLhyphen"/>rit.</p>
+               <p n="2">2. The Repetition of the ſame words was by the ſame Perſons, and peculiar to them that ſpake them, and chiefly for that time, and therefore is no ground at all either to form prayers for others, or to impoſe them up<g ref="char:EOLhyphen"/>on others.</p>
+               <p n="3">
+                  <pb n="13" facs="tcp:108883:12"/>
+3. From thoſe inſtances you may better infer,<note place="margin">Ex particulari, non eſt Syllogi<g ref="char:EOLhyphen"/>zari.</note> that no form is to be uſed till a man is in ſuch an <hi>Agony,</hi> or <hi>Ener<g ref="char:EOLhyphen"/>gy</hi> of ſpirit, as Chriſt and thoſe men were in; but as I ſaid before, to argue from an Extraordinary to an Ordinary is not good, nor from a <hi>particular</hi> to a <hi>general.</hi>
+               </p>
+               <p>Obj. 5. <hi>If it be lawful for the people to uſe a form as they do when they joyn with the</hi> Paſtor, <hi>then it is lawful for the</hi> Paſtor.</p>
+               <p>
+                  <hi>Anſ.</hi> How can the <hi>extemporary, immediate, unconceived</hi> prayer of the Paſtor be a form to the People, ſince they know nothing of it before? but if that be a form, ſuch a form we will yeeld to, <hi>viz.</hi> an <hi>unwritten, unprinted, un<g ref="char:EOLhyphen"/>heard of,</hi> and <hi>Non-impoſed</hi> form.</p>
+               <p>Obj. 6. <hi>Chriſt hath left his approbation of ſuch forms, proved,</hi> Luk. 20.42. &amp; 24.4.</p>
+               <p>
+                  <hi>Anſw.</hi> There is nothing to that purpoſe in either of thoſe Scriptures, unleſs you make the citing of Scripture a proof. But put the caſe that Chriſt had left his appro<g ref="char:EOLhyphen"/>bation of Scriptural forms which are Divine, that there<g ref="char:EOLhyphen"/>fore he gave his approbation of meer humane forms. This is like the Papiſts pleading from written Truths to unwritten Verities. But further, ſuppoſe all that the Objection ſuppoſes, that Chriſt did approve of ſuch <hi>Forms,</hi> yet where do you finde that Chriſt did impoſe ſuch, or give authority to any ſort of men to impoſe ſuch.</p>
+               <p>Object. 7. <hi>But Chriſt uſed the ſame words thrice in Prayer.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> See the Anſwer to the fourth Objection.</p>
+               <p>Obj. 8. <hi>But</hi> Chriſt <hi>did uſe a Hymn.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> If by a <hi>Hymn,</hi> be underſtood one of the <hi>Pſalms of Scripture,</hi> why might not Chriſt and his Diſciples uſe it, the Pſalms being in Metre, and then in uſe among the <hi>Jews?</hi> but others underſtand by an <hi>Hymn,</hi>
+                  <note place="margin">On Col. 3.16.</note> an <hi>extempore Song,</hi> as divers Interpreters make that diſtinction be<g ref="char:EOLhyphen"/>tween <hi>Hymns,</hi> and <hi>Pſaelms,</hi> and <hi>Spiritual Songs;</hi> others underſtand by a <hi>Hymn</hi> no more than praiſing God,<note place="margin">As the ſame word is uſed, Heb. 2.12.</note> as the word is taken; and that may ſerve for an anſwer to
+<pb n="14" facs="tcp:108883:13"/>the other Objection, <hi>That the Apoſtles commanded it.</hi>
+               </p>
+               <p>Obj. 9. <hi>If it be lawful to uſe a form in preaching, then in prayer: but the former is <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> Ergo <hi>the latter.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> When it can be proved that it is lawful for any Preacher to write all his Sermon <hi>verbatim,</hi> &amp; then preach (or rather read) it ſo, without <hi>addition, ſubſtraction,</hi> or <hi>al<g ref="char:EOLhyphen"/>teration,</hi> and afterwards print it, and impoſe it upon o<g ref="char:EOLhyphen"/>thers, then I ſhall grant it to bee lawful to make ſuch forms, and read them inſtead of preaching.</p>
+               <p>Obj. 10. <hi>Becauſe it was the practice of the Churches in Scripture-times, and downwards, to have ſuch Liturgies.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The Biſhops ſaid ſo, and ſought to prove it, as Biſhop <hi>Andrews</hi> purſued in his inquiry, ſo hard after Li<g ref="char:EOLhyphen"/>tuagies, that he thought he had gotten a <hi>Jewiſh</hi> one, which he ſent to <hi>Cambridge</hi> to tranſlate; but it was there ſoon diſcovered to be one made long after the <hi>Jews</hi> cea<g ref="char:EOLhyphen"/>ſed to be a Church,<note place="margin">See <hi>Smect.</hi>
+                  </note> and ſo he himſelf ſuppreſt it, and had there been any ſuch in our <hi>Saviours,</hi> or his <hi>Apoſtles</hi> time, doubtleſs we ſhould have found ſome mention of it in the Scriptures where mention is made of their reading, and preaching in the <hi>Synagogues</hi> of the <hi>Jews,</hi>
+                  <note place="margin">Luk. 4.17.</note> and where we read of giving the Book of the Prophet <hi>Iſaiah,</hi> but not Common-Prayer-Book.</p>
+               <p>Obj. 11. <hi>But a Liturgy or Common-Prayer-Book is good to help thoſe that cannot pray, as Crutches to help a lame man.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> It is rather a Hindrance than Help: for people would, if it were not for ſuch <hi>Forms,</hi> ſeek the Spirit of God, which would be given to help them.</p>
+               <p n="2">2. Either theſe are to help thoſe that have no grace, or thoſe that have grace; not thoſe that have none: for what good will <hi>Crutches</hi> do to a dead man?<note place="margin">Epheſ. 2. 1, 5. 1 Tim. 5.6.</note> as every graceleſs and natural man is.</p>
+               <p n="3">3. If he hath grace, then he wants no <hi>Crutches,</hi> for he is cured, and ſhould do with thoſe <hi>Crutches,</hi> as lame Per<g ref="char:EOLhyphen"/>ſons when they are cured in the <hi>Bath,</hi> hang up their <hi>Crutches</hi> on the Croſs, and leave them behinde them, to ſhew they are cured.</p>
+               <p n="4">4. If the <hi>lame</hi> ſhould uſe Crutches, yet that is no
+<pb n="15" facs="tcp:108883:13"/>ground why thoſe that God hath cured of their lame<g ref="char:EOLhyphen"/>neſs ſhould bee tied to carry Crutches, or walk on them.</p>
+               <p>Queſt. <hi>But what Reaſons or Objections have you against the Engliſh Liturgy, or Common-Prayer-Book, in parti<g ref="char:EOLhyphen"/>cular?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> In an Engliſh Book called <hi>Smectym-uus,</hi> publiſh<g ref="char:EOLhyphen"/>ed by divers godly and learned Presbyterian Miniſters, (as Mr. <hi>Marſhal,</hi> Mr. <hi>Calamy,</hi> Mr. <hi>Young,</hi> Mr. <hi>New<g ref="char:EOLhyphen"/>combe,</hi> and Mr. <hi>Sp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſtow</hi>) about the year one thouſand ſix hundred forty two, and this year one thouſand ſix hundred and ſixty reprinted, there are ſeveral <hi>Reaſons</hi> ſet down againſt it, as alſo againſt Biſhops, ſome of the for<g ref="char:EOLhyphen"/>mer I here inſert. As</p>
+               <p n="1">1. It ſymboleth (that is, agreeth) ſo much with the <hi>Popiſh Maſs,</hi> that the Pope himſelf was willing to have it uſed, if he might but confirm it. I ſhall add this out of the Book of <hi>Martyrs,</hi> vol. 2 pag. 667. Printed <hi>Anno</hi> 1631. when there was a rebellion in <hi>Devenſhire,</hi> in King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the ſixth his daies he writes to them thus,</p>
+               <p>
+                  <q>
+                     <hi>As for the Service in the</hi> Engliſh Tongue, <hi>it hath mani<g ref="char:EOLhyphen"/>feſt Reaſons for it,</hi>
+                     <note place="margin">King <hi>James</hi> al<g ref="char:EOLhyphen"/>ſo did (as is cre<g ref="char:EOLhyphen"/>dibly reported) commonly call it, <hi>An ill ſaid Maſſe.</hi>
+                     </note> 
+                     <hi>and yet perchance it ſeemeth to you a New-Service, and indeed is no other but the Old, the ſame words in</hi> Engliſh <hi>which were in</hi> Latine, &amp;c. And then afterwards, <hi>if the Service in the Church were good in</hi> Latine, <hi>it is good in</hi> Engliſh.</q>
+               </p>
+               <p n="2">2. It was framed and compoſed on purpoſe to bring Papiſts to Church.</p>
+               <p n="3">3. Becauſe it is ſo much Idolized, called <hi>Divine Ser<g ref="char:EOLhyphen"/>vice,</hi> as I heard one lately ſay, that brought a Bible to a Book-binders ſhop to be new bound:<note place="margin">
+                     <hi>In</hi> Shrewsbury <hi>laſt</hi> May.</note> when the Book-binder ſaid he could hardly binde it, and that he would ſell a new Bible for a little more mony; The owner re<g ref="char:EOLhyphen"/>turned anſwer. <hi>That that Bible was worth twenty new ones,</hi> and the onely reaſon was, becauſe the Book of <hi>Common-Prayer</hi> was in it.</p>
+               <p n="4">4. Becauſe many diſtate it.</p>
+               <p n="5">5. Becauſe it differs much from <hi>Liturgies</hi> in other
+<pb n="16" facs="tcp:108883:14"/>
+                  <hi>Churches,</hi> and yet they are not enjoyned. I may add,</p>
+               <p n="6">6. Becauſe it hath tended to maintain a lazy and ſcan<g ref="char:EOLhyphen"/>dalous Miniſtry.</p>
+               <p n="7">7. Becauſe it (together with other Ceremonies) hath been a means to bring many godly Preachers and Pro<g ref="char:EOLhyphen"/>feſſors under great <hi>Perſecution</hi> and <hi>Suffering,</hi> ſome (as <hi>Penry</hi> and <hi>Barrow, Greenhood</hi>) to ſuffer <hi>Death;</hi> ſome <hi>Ba<g ref="char:EOLhyphen"/>wſhment,</hi> and many Impriſonment, Indictment, and o<g ref="char:EOLhyphen"/>ther troubles, either for ſpeaking, and writing againſt it, or for not reading and hearing it.</p>
+               <p n="8">8. Becauſe it hath tended to harden many Papiſts in their falſe Religion (by ſeeing us come ſo neer to them in our way of Worſhip, as you finde in the firſt Reaſon) and ignorant ſcandalous people among our ſelves think<g ref="char:EOLhyphen"/>ing that they are true Chriſtians by conforming thereto.</p>
+               <p n="9">9. Becauſe it teacheth things that are <hi>Heatheniſh,</hi> as to call the Months, <hi>January, February, &amp;c.</hi> and the daies of the Week, <hi>Sunday, Monday, &amp;c.</hi> from the old <hi>Saxon</hi> Idols, &amp;c. Jewiſh, as <hi>Prieſts,</hi> and as was added in the <hi>Scots</hi> Liturgy, <hi>Altars, Sacrifice,</hi> and Popiſh, as <hi>Chriſtmas,</hi> &amp;c.</p>
+               <p n="10">10. Becauſe it is a very imperfect form, there being many things wanting that men ought to pray for, as <hi>aſ<g ref="char:EOLhyphen"/>ſurance, ſending forth Labourers into Gods vine-yard,</hi> and many the like, which cannot be found in it.</p>
+               <p n="11">11. Becauſe there are ſo many unwarrantable things and (offenfive to good Chriſtians) therein.</p>
+               <p>Q. <hi>What are thoſe things in the Book of Common-Prayer that are unjuſtifiable in themſelves, and offenſive to good Chriſtians?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. <hi>Adding to,</hi> and <hi>diminiſhing</hi> from the Scrip<g ref="char:EOLhyphen"/>tures in the very beginning of it, in the words, <hi>At what time ſoever a ſinner doth repent him of his ſins, &amp;c.</hi> which in the <hi>Rubrick</hi> and <hi>direction</hi> before it, is called one of the Sentences of the Scripture, and they cite <hi>Ezek.</hi> 18. com<g ref="char:EOLhyphen"/>pare theſe words with the Scripture there, <hi>verſ.</hi> 21, 22, and you will finde both <hi>adding and diminiſhing,</hi> contra<g ref="char:EOLhyphen"/>ry to <hi>Deut.</hi> 4.2. <hi>Prov.</hi> 30.6. <hi>Rev.</hi> 22.18.</p>
+               <p n="2">2. Leaving ſome part of Scripture out, as the Book
+<pb n="17" facs="tcp:108883:14"/>of <hi>Canticles,</hi> &amp;c. and not to bee read throughout the whole year, and many, if not moſt part of the other Books of Scripture; ſo that by the <hi>Rubrick</hi> in the Com<g ref="char:EOLhyphen"/>mon-Prayer-Book, a great part of the Bible ſhould ne<g ref="char:EOLhyphen"/>ver be read publickly at all, which is contrary to 2 <hi>Tim.</hi> 3.16.</p>
+               <p n="3">3. Groſs <hi>alterations,</hi> and differences are between the Pſalms in the Bible, and thoſe appointed to be read in the Book of Common-Prayer, as in <hi>Pſal.</hi> 14. in the Bible there is but ſeven verſes, but in the Book of Com<g ref="char:EOLhyphen"/>mon-Prayer there is eleven; ſo in <hi>Pſal.</hi> 106. &amp; 30 it is in the Bible, <hi>Phineas executed Judgement</hi> (which is accord<g ref="char:EOLhyphen"/>ing to the Hebrew and Greek Tranſſation, and accord<g ref="char:EOLhyphen"/>ing to <hi>Numb.</hi> 25.7, &amp; 8.) but in the Book of <hi>Common-Prayer,</hi> he prayed. So in <hi>Pſal.</hi> 22.31. in the Bible, and according to the Hebrew, <hi>a ſeed ſhall ſerve him;</hi> but in the Book of <hi>Common-Prayer, My ſeed.</hi> So in <hi>Pſal.</hi> 40.9. in the Bible, and ſo in the Hebrew (and Greek and Latine Tranſlations) it is, <hi>I have preached Righteouſneſs;</hi> but in the Book of Common-Prayer, <hi>thy Righteouſneſs,</hi> adding the word <hi>thy.</hi> So in <hi>Pſal.</hi> 105.25. In the Tranſlation of the Bible it is <hi>Hee,</hi> i. e. God, <hi>turned their hearts to hate his people:</hi> But in the Common-Prayer-Book, <hi>whoſe hearts turned.</hi>
+               </p>
+               <p n="4">4. Some Chapters are appointed to be begun in the middle of them (though but ſhort) deſtroying the Con<g ref="char:EOLhyphen"/>nexion between the words going before, and where they begin. As <hi>upon the day called the Nativity of Chriſt,</hi> the third Chapter of <hi>Titus</hi> is appointed to bee read for the ſecond <hi>Leſſon,</hi> beginning at the fourth verſe, which depends upon the third verſe. So <hi>Luke</hi> 2.10. which is joyned to the ninth verſe.</p>
+               <p n="5">5. <hi>Appointing many Chapters to be read out of Apocrypha,</hi> as <hi>Wiſdom,</hi> chap. 1.3, 6, 9, 19, 22. <hi>Eccluſ.</hi> 19.29, 38, 44.<note place="margin">
+                     <hi>Caveat omnia Apocrypha,</hi> ſaith <hi>Jerom,</hi> Take heed of all the Apocripha, and yet of 172 chapt. (or thereabouts) in the Apoc. 104 chap. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> thereabouts) are appointed to bee read every year.</note> contrary (as the laſt Synod obſerved in their <hi>Catechiſm</hi>) to <hi>Luke</hi> 24. 27, 44. <hi>Rom.</hi> 3.2. 2 <hi>Pet.</hi> 1.21. and yet in
+<pb n="18" facs="tcp:108883:15"/>the preface before the book, it is ſaid, <hi>That there is no<g ref="char:EOLhyphen"/>thing ordained to be read but the Scriptures,</hi> &amp;c.</p>
+               <p>Obj. <hi>But why are not thoſe Apocrypha Books to be read?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Not onely becauſe the Scriptures are ſufficient of themſelves, 2 <hi>Tim.</hi> 3.15. but becauſe there are many fooliſh and fabulous things therein, as in <hi>Tob. chap.</hi> 6.7. <hi>&amp;</hi> 11.14. <hi>&amp;</hi> 12.15. ſo <hi>Jud.</hi> 9.2, 10, 13. <hi>Eccleſiaſticus</hi> 1.15. <hi>&amp;</hi> 12.5. <hi>&amp;</hi> 48.13. with many the like, compa<g ref="char:EOLhyphen"/>red with the Word of God, will eaſily appear to be falſe.</p>
+               <p n="6">6. <hi>In many places to call the Writings of the Prophets, and the Acts of the Apoſtles, and Revelations, Epiſtles,</hi> as <hi>Iſa.</hi> 7.17. &amp; 40.1. &amp; 50.5. &amp; 63.1. <hi>Jerem.</hi> 23.5. <hi>Joel.</hi> 2. <hi>Acts</hi> 1.1. &amp; 2.1. &amp; 8.14. &amp; 11.17. &amp; 10.24. &amp; 13.26. <hi>Apec.</hi> 7.2. &amp; 12.7. &amp; 14. as the <hi>Epiſtle for the day of Chriſts Nativity, the Epiſtle for Innocents day.</hi> Did any of the <hi>Sectaries</hi> in citing a Scripture, call the Prophecy of <hi>Iſaiah</hi> or <hi>Jeremiah,</hi> an Epiſtle, he ſhould be hiſſed at.</p>
+               <p n="7">7. <hi>Calling the Lords Day,</hi> and other the days of the week by the names of the old <hi>Saxon Idols,</hi> as Sunday from the <hi>Sun,</hi> Monday from the <hi>Moon,</hi> Tueſday from <hi>Tuiſeo,</hi> Wedneſday from <hi>Wooden,</hi> &amp;c. contrary to <hi>Exod.</hi> 23.13. <hi>Hoſ.</hi> 2.17. and the way uſed in Scripture, <hi>Gen.</hi> 1. 5, 8. 13, 19, 23. <hi>Mat.</hi> 28.1.</p>
+               <p n="8">8. <hi>Dedicating dayes to the Angel Michael, and to the Apoſtles and other Saints,</hi> contrary to <hi>Exod,</hi> 31.15. <hi>Gal.</hi> 4.10. <hi>Col.</hi> 2.6, 16, 17. and calling thoſe <hi>Holy-days.</hi> and yet the Sabbath <hi>Sunday,</hi> likewiſe dedicating one day to all Saints, anſwerable to what Heathen <hi>Rome</hi> did to their <hi>Idols,</hi> and what <hi>Antichriſtian Rome</hi> ſtill doth to Saints. But God may ſay, <hi>Who hath required this at your hand?</hi> Iſa. 1.12.</p>
+               <p n="9">9. <hi>That the Miniſter is called ſo often Prieſt in it.</hi>
+               </p>
+               <p>Obj. <hi>But are they not called Gods-Prieſts, and Gods-Clergie,</hi> 1 Pet. 2, 9. &amp; 5. 3?</p>
+               <p>
+                  <hi>Anſ.</hi> Not the <hi>Miniſters</hi> diſtinct from the <hi>People,</hi> but the beleevers are called a <hi>Royal Prieſt-hood,</hi> and Gods <hi>Clergy,</hi> or <hi>Heritage,</hi> ſpeaking in an Old Teſtament-phraſe, by way of alluſion to the <hi>Jewes.</hi> Gods ſelect peo<g ref="char:EOLhyphen"/>ple:
+<pb n="19" facs="tcp:108883:15"/>but it is not in that ſenſe that the <hi>Miniſter</hi> is called a <hi>Prieſt</hi> in this Book, but looking upon him, as one that belongs to a peculiar <hi>Tribe,</hi> and as they did, and uſually do pray for themſelves, as being of the Tribe of <hi>Levi;</hi> which if they be, they are Jews, and by the Law of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> if you beleeve ſome Lawyers to be baniſhed.</p>
+               <p n="10">10. <hi>That the people ſhould pray audibly,</hi>
+                  <note place="margin">Turpe eſt Decto<g ref="char:EOLhyphen"/>ri, cum tuipa redarguit, ip<g ref="char:EOLhyphen"/>ſam.</note> 
+                  <hi>or with a loud voice, with the Miniſter,</hi> as in the Confeſſion, and other prayers; which is <hi>confuſion,</hi> and contrary to good <hi>order,</hi> 1 Cor. 14.40. which they blame in other men.</p>
+               <p n="11">11. <hi>That the Leſſons, Epistles and Goſpels ſhould be ſung,</hi> as you finde in the <hi>Rubrick</hi> immediately before <hi>Te Deum laudamus.</hi> No ſuch Command from God, nor ſuch pra<g ref="char:EOLhyphen"/>ctice in the <hi>Churches</hi> of God.</p>
+               <p n="12">12. That <hi>Te Deum Laudamus, &amp; Benedicite omnia, are appointed to be read throughout the whole year, after the firſt Leſſon.</hi> Sure if a good Preacher did preach one and the ſame Sermon every Lords day in the year, theſe men would diſtate it. And what is meant by retaining ſtill the Latine <hi>Titles</hi> (and thoſe which are commonly uſed in Popiſh Nations) but that we ſeek <hi>uniformity</hi> with them? But <hi>what concord hath Chriſt with Belial? or what agree<g ref="char:EOLhyphen"/>ment hath the Temple of God with Idols?</hi> 2 Cor. 6.15, 16.</p>
+               <p n="13">13. In that called <hi>Te Deum,</hi> there is a difference made between <hi>Angels, Cherubims,</hi> and <hi>Seraphims,</hi> making as the <hi>Papists</hi> do, divers (to wit, nine) degrees of Angels,<note place="margin">Wee read but of one Arch-Angel in Scrip<g ref="char:EOLhyphen"/>ture, which is Chriſt, <hi>Dan.</hi> 10.12. &amp; 12.1. and not Arch-Angels, as the Com. Prayer-Book ſaith. See Communion.</note> 
+                  <hi>and likewiſe in ſetting days apart for Michael, and all the Angels.</hi> Though it be very probable, that by <hi>Michael</hi> is underſtood Chriſt himſelf, by comparing <hi>Rev.</hi> 12.9. with <hi>Zech.</hi> 3.2. and <hi>Judg.</hi> 8.9. but were there ſuch an <hi>Angel,</hi> who hath appointed a day, or daies to be obſerved to him or them? This is contrary to <hi>Col.</hi> 2.18.</p>
+               <p n="14">14. That in their <hi>Canticle,</hi> or <hi>Benedicite omnia,</hi> &amp;c. after <hi>the ſpirits and ſouls of the Righteous are called upon to bleſs the Lord; Ananias, Azarias,</hi> and <hi>Miſael,</hi> are cal<g ref="char:EOLhyphen"/>led upon to bleſs the Lord, As if they were not included in the ſpirits and ſouls of the righteous.</p>
+               <p n="15">
+                  <pb n="20" facs="tcp:108883:16"/>
+15. <hi>After the ſecond Leſſon,</hi>
+                  <note place="margin">This implies it is uſed in La<g ref="char:EOLhyphen"/>tine, as divers other things in the Service-Book are, in the Romiſh <hi>Church,</hi> which much incourageth them in their way, as learned <hi>Parker,</hi> and others ſhew.</note> Benedictus, <hi>in Engliſh is to be uſed.</hi> And yet that is part of a Chapter (or ſecond Leſſon) to wit, of <hi>Luke</hi> 1.68, &amp;c.</p>
+               <p n="16">16. In the <hi>Creed,</hi> they make that part of one <hi>Article,</hi> That <hi>Chriſt deſcended into Hell,</hi> As if Chriſt bad deſcend<g ref="char:EOLhyphen"/>ed into the place of the Damned (as the Papiſts hold) contrary to <hi>Mat.</hi> 12.40. <hi>Epheſ.</hi> 4.8.</p>
+               <p n="17">17. The Prieſt, and the People (whilſt they are at their Service) ſalute and complement one with an other; <hi>The Lord be with you</hi> (ſaith the Prieſt) <hi>And with thy ſpirit,</hi> ſay the people.</p>
+               <p n="18">18. <hi>The Miniſter ſtanding up in the midſt of his Prayers, between one Prayer and another.</hi> The Prayer is not ſo long, that be ſhould be ſo ſoon tyred in kneeling.</p>
+               <p n="19">19. <hi>The chopping and mineing of Prayer between the Prieſt and the People</hi> in many places, which are liker <hi>Charmers</hi> than Chriſtians <hi>Prayers.</hi>
+               </p>
+               <p n="20">20. <hi>In that called Quicunque vult, where the Articles of the Catholick Faith are ſet down, one is, that Chriſt deſcen<g ref="char:EOLhyphen"/>ded into Hell</hi> (ſome other expreſſions in it are liable to exception) and yet in the laſt verſe thereof it is ſaid, This is the Catholick faith, which <hi>except a man beleeve faithfully, he cannot be ſaved;</hi> and yet many doubtleſs that never <hi>heard, underſtood,</hi> nor could <hi>beleeve</hi> ſeveral things therein, may be, and will be ſaved.</p>
+               <p n="21">21. <hi>The Letany is to be read upon</hi> Wedneſdays <hi>and</hi> Fri<g ref="char:EOLhyphen"/>days, <hi>and at other times when the</hi> Ordinary <hi>ſhall command.</hi> And why upon <hi>Wedneſdaies</hi> and <hi>Fridays,</hi> unleſs to com<g ref="char:EOLhyphen"/>ply with the Papiſts? and why at the <hi>Ordinaries</hi> com<g ref="char:EOLhyphen"/>mand? Is not every Miniſter of Chriſt as fit to judge when 'tis meet to read it, as well as the <hi>Ordinary?</hi> An ordinary judgement, may diſcern this to be extraordina<g ref="char:EOLhyphen"/>ry folly.</p>
+               <p n="22">22. <hi>The Miniſter propounds the matter of Prayer,</hi> but the people pray, <hi>Good Lord deliver us; We beſeech thee
+<pb n="21" facs="tcp:108883:16"/>to hear us good Lord.</hi> It's ſtrange that this liberty is al<g ref="char:EOLhyphen"/>lowed people in publick, and yet denied to others in private: nay, that the women are ſuffered to ſpeak (that is, pray) in the Church, and publickly too, this is contra<g ref="char:EOLhyphen"/>ry to 1 <hi>Tim.</hi> 2.11, 12.</p>
+               <p n="23">23. <hi>Many Tautolegies</hi> therein, the words, <hi>Good Lord deliver us</hi> uſed eight times; and the words, <hi>We beſeech thee to hear us good Lord,</hi>
+                  <note place="margin">Qui paratus eſt in alterum di<g ref="char:EOLhyphen"/>cere, ipſum opor<g ref="char:EOLhyphen"/>tet carere vitio.</note> uſed one and twenty times; and uſing the Lords Prayer five times, or more, in one Morn<g ref="char:EOLhyphen"/>ing Service. This is vain Repetition, forbidden in <hi>Mat.</hi> 6.6. and that which they much condemn in ſuch as pray conceived prayers.</p>
+               <p n="24">24. From <hi>Fornication,</hi> and all <hi>other deadly Sins.</hi> Here<g ref="char:EOLhyphen"/>in making a difference (as the Papiſts do) between <hi>Ve<g ref="char:EOLhyphen"/>nial</hi> and <hi>Mortal</hi> Sins, though all ſins be deadly, or de<g ref="char:EOLhyphen"/>ſerve death, <hi>Rom.</hi> 5.12. &amp; 6.23. yet true it is, that there is an unpardonable ſin, 1 <hi>John</hi> 5.16.</p>
+               <p n="25">25. Praying againſt <hi>ſudden death.</hi> This is no where commanded in the Scripture, but rather the contrary.<note n="*" place="margin">Some of the Antients pray<g ref="char:EOLhyphen"/>ed for ſudden death, as you find in <hi>Acts &amp; Monuments.</hi>
+                  </note> 
+                  <hi>See Eccleſ.</hi> 9.12. <hi>Mar.</hi> 13.33, &amp;c. <hi>Luk.</hi> 12.29, 40, 45, 46. And what doth this but confirm ignorant Prote<g ref="char:EOLhyphen"/>ſtants (as well as Papiſts) in thoſe corrupted Principles; That <hi>Repentance is in their own power,</hi> and <hi>that Repentance muſt be a mans loſt Act,</hi> or elſe he cannot be ſaved: by which they exclude all thoſe that dye ſuddenly (eſpeci<g ref="char:EOLhyphen"/>ally violently) from Salvation; which is contrary to theſe Scriptures, 1 <hi>Sam.</hi> 4.18, 19, &amp;c. <hi>Job</hi> 21.24, 25. <hi>Eccleſ.</hi> 9.2.</p>
+               <p n="26">26. <hi>That they deſire to be delivered by Chriſts Circum<g ref="char:EOLhyphen"/>ciſion, Baptiſm, Faſting,</hi> and <hi>Temptation;</hi> yea <hi>Burial:</hi> ſome alſo take exception at the word <hi>By,</hi> being uſed as in an Oath,<note place="margin">Mat. 5.34, 35, 36.</note> eſpecially ſo many times as there it is.</p>
+               <p n="27">27. There's a Prayer, <hi>That God will bring into the way of truth all ſuch as have erred;</hi> whereas ſome are not at all to be prayed for, <hi>Joh.</hi> 17.9. 1 <hi>Jo.</hi> 5.16.</p>
+               <p n="28">28. <hi>They pray for a ſort of people called Curates</hi> (a Name and Office not known in the Bible) diſtinct from <hi>Biſhops,</hi> and <hi>Paſtors.</hi> Note here the <hi>Biſhops</hi> and <hi>Cu<g ref="char:EOLhyphen"/>rates</hi> are not looked upon as <hi>Paſtors</hi> (that is, Feeders)
+<pb n="22" facs="tcp:108883:17"/>and indeed they are not, for the one is a <hi>Starver,</hi> the other a <hi>Biter</hi> and <hi>Slayer</hi> of the ſheep.</p>
+               <p n="29">29. <hi>The taking of Gods Name ſo many times</hi> irreverently in their mouthes, in ſaying, <hi>Lord have mercy upon us, Chriſt have mercy upon us;</hi> contrary to <hi>Exod.</hi> 20.7. <hi>Levit.</hi> 19.12. which forbid men to take Gods name in vain.</p>
+               <p n="30">30. <hi>That the Collect for Chriſtmas Day</hi> (as they call it) <hi>is to be read till New-years Day;</hi> and yet the <hi>Collect</hi> is thus: <hi>Almighty God, which haſt given us thy only begotten Son, to take our Nature upon him, and this day to bee born of a pure Virgin.</hi> What? could he be born that day, and eve<g ref="char:EOLhyphen"/>ry day of the ſix following too? The like upon <hi>Eaſter</hi> and <hi>Aſcenſion-days</hi> (ſo called) is to be read, and ſix daies after.<note place="margin">And yet <hi>Eaſter</hi> is a moveable Feaſt, ſome<g ref="char:EOLhyphen"/>times in <hi>March,</hi> and ſometimes in <hi>April,</hi> ſo cal<g ref="char:EOLhyphen"/>led.</note> But it is more than all the learned <hi>Clerks</hi> either in <hi>England</hi> or <hi>Italy</hi> can prove, that Chriſt was born either on that day, or in that Month called <hi>December,</hi> but ra<g ref="char:EOLhyphen"/>ther in the <hi>ſeventh Month,</hi> called <hi>September,</hi> which might be figured and held forth by the Feaſt of <hi>Taber<g ref="char:EOLhyphen"/>nacles,</hi> which was upon the fifteenth day of the Month, <hi>Levit.</hi> 23.34. and the <hi>Jews,</hi> and divers <hi>learned Chri<g ref="char:EOLhyphen"/>ſtians,</hi> held,<note place="margin">John 1.14. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and ſtill hold, that the firſt day of that Feaſt ſhadowed his birth, as the laſt or eighth day, his Circumciſion: and <hi>John</hi> ſeems to allude to that, in <hi>John</hi> 1.14.</p>
+               <p n="31">31. <hi>At the purification of</hi> Mary,<note place="margin">Purification of Mary. Levit. 12.4.</note> 
+                  <hi>the Collect runs, That as thine onely Son this day was preſented in the Temple.</hi> Which is as uncertain as the other: for if the three and thirty days according to the Law, that the woman was to continue in the blood of her purifying, did begin when Chriſt was born, then they were ended ſix or ſeven days before that time of Purification; but if thoſe thirty three days begin after the day of Circumciſion, then the day now obſerved is not probably the very day. But ſuppoſe it were that very day, why ſhould that Jewiſh Ceremony be ſtill retained? it is not with an intent to further the converſion of the Jews; for both Popiſh, and Prelatical (for the moſt part) deny that they will at all be converted.</p>
+               <p n="32">
+                  <pb n="23" facs="tcp:108883:17"/>
+32. <hi>That the Prieſt is appointed to ſtand at the North-ſide of the Table;</hi> This is done (as many other things) in imitation of the <hi>Ceremonial Law,</hi> Levit. 1.11.</p>
+               <p n="33">33. <hi>That the people are appointed to kneel, at the reading of the ten Commandements.</hi> This is contrary to <hi>Neh.</hi> 8.2, 3, 5. and yet afterwards when the Miniſter is to pray, he is appointed to ſtand up. Unleſs men were addicted and reſolved to walk contrary to God and his Word, they would not be ſuch <hi>Fanaticks.</hi>
+               </p>
+               <p>Obj. <hi>But the people kneel becauſe of their praying,</hi> Lord have mercy upon us.</p>
+               <p>
+                  <hi>Anſw.</hi> But who hath appointed them to do that? This is to be wiſe above what is written.</p>
+               <p n="34">34. <hi>Offerings are appointed to be paid to the Curate,</hi> which is to continue ſtill that Ceremonial Law that Chriſt hath abrogated, <hi>Col.</hi> 2.14. <hi>Heb.</hi> 9.10.</p>
+               <p n="35">35. There is added <hi>in the Adminiſtration of the Commu<g ref="char:EOLhyphen"/>nion, words of their own,</hi>
+                  <note place="margin">Publick Com<g ref="char:EOLhyphen"/>munion.</note> 
+                  <hi>to the words of Chriſts inſtitution.</hi> As, <hi>Preſerve thy body and ſoul unto everlaſting life.</hi> See <hi>Mat.</hi> 26.26, 27, 28. <hi>Luk.</hi> 22.19, 20. 1 <hi>Cor.</hi> 11.24, 25.</p>
+               <p n="36">36. <hi>The Prieſt is appointed to kneel at one Prayer, and yet to ſtand at the very next:</hi> and why not kneel or ſtand at both?</p>
+               <p n="37">37. In the Rubrick before the Communion, it is ſaid, <hi>He ſhall receive the Sacrament, and other Rites.</hi> What are thoſe Rites? would they give more than what is ap<g ref="char:EOLhyphen"/>pointed, as the Papiſts do leſs?</p>
+               <p n="38">38. The people are to receive the Sacrament kneeling, (an unſeemly geſture at Supper.) This is like the <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> and not like <hi>Chriſt</hi> and his <hi>Diſciples,</hi> Mat. 26.21. Mark 14. And what is this but to adore the body of Chriſt <hi>per ſuum ſignum,</hi> as a Biſhop ſaid? which is the next <hi>Door,</hi> if not the ſame <hi>Inlet</hi> to Popery. This brat (Ceremony) was begotten at the ſame time with their Breaden God, which is (as God called the Idol, <hi>Deut.</hi> 32.17. <hi>Jud.</hi> 5.8.) a new God.</p>
+               <p n="39">39. <hi>The Prieſt gives it to every one in particular,</hi> and ſaith, <hi>Take and eat this in remembrance that Chriſt dyed for thee:</hi> This alſo is contrary to the way and words of
+<pb n="24" facs="tcp:108883:18"/>Chriſt, who ſaid to the Diſciples in general, and not to every <hi>individual</hi> and <hi>particular</hi> man, <hi>This is my Body which is given for you, and divide it among your ſelves,</hi> 1 Cor. 11.24. Luk. 22.17, 19.</p>
+               <p n="40">40. <hi>That all the people muſt partake three times a year at leaſt.</hi>
+                  <note place="margin">Act. 2.42. &amp; 20. 1 Cor. 11. 25, 26.</note> And why not every Lords Day, or every Month, as the Primitive Chriſtians did? and yet in <hi>Ca<g ref="char:EOLhyphen"/>thedral,</hi> or <hi>Collegiate Churches,</hi> where be many <hi>Prieſts</hi> (too many, I ſear) and <hi>Deacons,</hi> they ſhall receive the Communion with the Miniſter every <hi>Sunday</hi> at leaſt, and why ſhould that difference be, unleſs the <hi>Prieſts</hi> would receive it more for their <hi>Bellies ſake,</hi> than their <hi>Souls?</hi> Have not the <hi>common people</hi> need to remember Chriſt as often as they? or would they make a <hi>Church of Clerks,</hi> diſtinct from a <hi>Church of Chriſtians. Apage!</hi>
+               </p>
+               <p n="41">41. <hi>That every one muſt reckon at Eaſter with the Parſon,</hi>
+                  <note place="margin">It was an uſu<g ref="char:EOLhyphen"/>al thing to de<g ref="char:EOLhyphen"/>ny the <hi>Commu<g ref="char:EOLhyphen"/>nion</hi> to thoſe that could not pay for it; nay, it was proved againſt one (at leaſt) of the ejected Miniſters of <hi>Wales,</hi> (Mr. <hi>Humphrey,</hi> of <hi>Aberhaves</hi> in <hi>Mountgomery</hi>-ſhire) That he raiſ'd a woman off her knees at the Sacrament, becauſe ſhee had not paid him.</note> 
+                  <hi>Vicar, or Curate:</hi> Where finde you that Chriſt or his A<g ref="char:EOLhyphen"/>poſtles did ever reckon ſo? or in what Bible do you finde the word <hi>Parſon, Vicar, Curate,</hi> or either of them? Theſe names are fitter to be joyned in the Apocryphal ſtory with <hi>Toby</hi> and his Dog.</p>
+               <p n="42">42. <hi>Though they confeſs, that in the Primitive times</hi> Baptiſm was adminiſtred twice a year (<hi>viz.</hi> at <hi>Eaſter;</hi> and <hi>Whitſuntide</hi>) yet it is ordered, that the <hi>Paſtors</hi> and <hi>Curates</hi> ſhall often admoniſh the people, that they defer not the <hi>Baptiſm</hi> of Infants longer than till the <hi>Sunday,</hi> or other Holy-day next after the childe be born, <hi>&amp;c. Doth not this ſavour ſtrongly that Baptiſm is looked upon as ne<g ref="char:EOLhyphen"/>ceſſary to ſalvation?</hi>
+               </p>
+               <p n="43">43. This is to be done upon <hi>Sundaies,</hi> or other <hi>Holy-daies;</hi> where note, that the <hi>Lords day</hi> is called <hi>Sunday,</hi> and the other days <hi>Holy-days;</hi> and who appointed or conſe<g ref="char:EOLhyphen"/>crated thoſe <hi>Holy-days?</hi> Not <hi>Chriſt,</hi> nor his <hi>Apoſtles,</hi> nor the <hi>Primitive</hi> or <hi>Apoſtolical Church:</hi> they erre in obſer<g ref="char:EOLhyphen"/>ving ſuch days as were introduced by men;<note place="margin">See <hi>Brza</hi>'s notes upon Gal. 4.13</note> yea, all Holy-days,
+<pb n="25" facs="tcp:108883:18"/>or Feaſts appointed by God himſelf (except the Chriſtian Sabbath) are abrogated, <hi>Gal.</hi> 4.10. <hi>Col.</hi> 2.16.</p>
+               <p n="44">44. In one of the Prayers after the Communion, <hi>Thoſe things which for our unworthiniſs we dare not ask;</hi> which is contrary to <hi>John</hi> 16.23, 24. <hi>Epheſ.</hi> 3.12. 1 <hi>John</hi> 1.14. which ſhew, that the people of God have liberty to ask any thing according to the will of God. But peradven<g ref="char:EOLhyphen"/>ture the Parſons and their Pariſhioners mean (<hi>by thoſe things</hi>) liberty to game on the Lords Days, be drunk, ſwear, &amp;c. which things, though they dare not ask leave (yet will take leave without asking) to do.</p>
+               <p n="45">45. <hi>If neceſſity require, that children may at all times be baptized at home; Christ and the Apoſtles mention no</hi> ſuch <hi>neceſsity,</hi> and <hi>Auguſtine</hi> and <hi>Ambroſe</hi> would not have been without Baptiſm till they came to be about thirty years of age, if in thoſe times they had judged ſuch a ne<g ref="char:EOLhyphen"/>ceſſity of Baptiſm. And how contrary is this private <hi>Baptiſm,</hi> to the Baptiſm of <hi>John,</hi> and of Chriſt; ſee <hi>Mat.</hi> 3. 5, 6. <hi>John</hi> 3.22, 23.</p>
+               <p n="46">46. That the <hi>Red Sea</hi> figured Chriſt's holy Baptiſm. It rather ſignified the miſerable ſtate of Sinners by Na<g ref="char:EOLhyphen"/>ture, out of which Chriſt leads them.</p>
+               <p n="47">47. <hi>That God did by the Baptiſm of Chriſt ſanctifie the</hi> River Jordan, <hi>and all other Waters, for the myſtical waſh<g ref="char:EOLhyphen"/>ing away of all ſin.</hi> There is no Scripture for this, but on the contrary, 1 <hi>Pet.</hi> 3.21. If ſo, I wonder the Biſhops and their Clergy are not Anabaptiſts, and baptize in Ri<g ref="char:EOLhyphen"/>vers, ſince firſt Rivers are ſanctified.</p>
+               <p n="48">48. To uſe <hi>God-fathers,</hi> and <hi>God-mothers,</hi> and they anſwer inſtead of the childe; and thus the children per<g ref="char:EOLhyphen"/>form them (that is, Faith and Repentance.) No ſuch thing practiſed in Chriſts, or in the Apoſtles times,<note place="margin">Publick Bap<g ref="char:EOLhyphen"/>tiſm.</note> as ſureties, neither do the children perform any ſuch thing by them, any more than they do perform their promiſe for the children to bring them to hear Sermons, when they come to age. See <hi>Matth.</hi> 3.6. <hi>Mark</hi> 1. 8, 9. <hi>Luke</hi> 7.29, <hi>Joh.</hi> 1.33. <hi>Acts</hi> 2.8. &amp; 18.</p>
+               <p n="49">49. The <hi>Croſs in Baptiſm,</hi> that hath more warrant
+<pb n="26" facs="tcp:108883:19"/>from the Pope than from Chriſt, or his Goſpel. And by the Engliſh Croſs, ſome of the Papiſts (as <hi>Martial</hi>) ju<g ref="char:EOLhyphen"/>ſtifie the Popiſh Croſs: But we in <hi>England</hi> do not finde that virtue in the Croſs, which they of <hi>Rome</hi> ſay there is, <hi>viz.</hi> to ſanctifie thoſe upon whom it is ſet, to drive away the Devil, to expel diſeaſes, &amp;c. It is wonder that Chriſt and his Apoſtles left us without ſuch a <hi>Panthama<g ref="char:EOLhyphen"/>ton,</hi> or ſoveraign ſalve.</p>
+               <p n="50">50. The Miniſter both in his ſpeaking to the People, and in his Prayer ſaith, <hi>That the Children were re<g ref="char:EOLhyphen"/>generated,</hi> (meaning by Baptiſm) whereas they ſhould bee regenerated before they are baptized, <hi>Acts</hi> 8.37. &amp; 16. 14, 15, 16, 31, 32, 33, <hi>Mat.</hi> 3. 8, 9. <hi>And I certifie you,</hi> ſaith the Miniſter, <hi>that this Childe which being born in Original ſin, and in the Wrath of God, by the laver of Regeneration in Baptiſm, is now received into the number of the Children of God, and Heirs of everlaſting life, and doubt not that he hath given unto him the bleſſing of eternal life, and made him partaker of his everlaſting kingdome:</hi> ſo in the <hi>Catechiſm,</hi>
+                  <note place="margin">And is it cer<g ref="char:EOLhyphen"/>tain (as you ſay) that chil<g ref="char:EOLhyphen"/>dren being baptized, have all things for their falvation?</note> The Childe anſwers, <hi>Wherein I was made a member of Chriſt, a childe of God, and an inheritor of the Kingdom of Heaven:</hi> and again, <hi>Wee are thereby made the children of grace.</hi> What clearer proof can be deſired to prove that the Sacrament doth confer grace, than this? See the <hi>Catech.</hi> If every childe be made ſo in Baptiſm, then ſure every one that is baptized, muſt be ſaved, or elſe they may fall from a ſtate of grace; but neither of theſe are true, <hi>Act.</hi> 8.13, 20, 21. 1 <hi>Pet.</hi> 3.21. <hi>John</hi> 4.14. and 10. 27, 28.</p>
+               <p n="51">51. <hi>That the God-fathers and God-mothers give the childe his name,</hi> whereas the Parents ſhould doe it, <hi>Gen.</hi> 39.33, 34. <hi>Luk.</hi> 1.60, 63. 1 <hi>Sam.</hi> 1.20.</p>
+               <p n="52">52. The childe being asked, <hi>How many Sacraments?</hi> the anſwer is, <hi>Two, as generally neceſſary to Salvation;</hi> wherein is implied, that two are neceſſary, and more than two may be, though two may ſuffice.</p>
+               <p n="53">53. In private communion it is ſaid,<note place="margin">Private Bap<g ref="char:EOLhyphen"/>tiſm.</note> 
+                  <hi>Firſt let the law<g ref="char:EOLhyphen"/>ful Miniſter call upon God for his grace, and ſay the Lords
+<pb n="27" facs="tcp:108883:19"/>Prayer, if time will ſuffer.</hi> Mark here how the Miniſter either is in ſuch haſte, or the childe in ſuch danger, that they may not have time to ſay the Lords Prayer.</p>
+               <p n="54">54. <hi>After the confirmation,</hi>
+                  <note place="margin">Confirmation.</note> 
+                  <hi>the Rubrick ſaith, None ſhall be admitted to the Lords Supper, but thoſe that are confirm<g ref="char:EOLhyphen"/>ed:</hi> There is no ſuch prohibition in Scripture; and if it were, what ſhould the greateſt number of people in moſt Pariſhes do, who are not viſited nor confirmed by the Biſhops at all?<note place="margin">Simile.</note> This is as if a Maſter ſhould forbid his ſervants meat till he comes to cut it; and he comes not perhaps in ſeven years, if at all.</p>
+               <p n="55">55. The Biſhop ſaith, <hi>Wee have laid our hands,</hi> when he himſelf onely hath done it: mark, how ambitious the Biſhop is of ſpeaking in a Kingly ſtile.</p>
+               <p n="56">56. In the Catechiſm, the Miniſters exhortation to the childe is called a <hi>Queſtion,</hi> and the Lords Prayer an <hi>Anſwer.</hi>
+               </p>
+               <p n="57">57. <hi>Matrimony called frequently Holy.</hi> Though it be true, that in oppoſition to Uncleanneſs and Whore<g ref="char:EOLhyphen"/>dome, it may be called Holy, yet it may be ſuſpected, leſt hereby a compliance with the Papiſts (who make this one of their ſeven Sacraments) is intended.</p>
+               <p n="57">57. It is ſaid further, <hi>That as many as be coupled toge<g ref="char:EOLhyphen"/>ther otherwiſe than Gods Word doth allow,</hi>
+                  <note place="margin">1 Cor. 6.7. Mat. 19.9. Cha. 5. 32, &amp;c. Matriages are to bee in the Lord, 1 Cor. 7.39. that is, after the Will of the Lord, Eph. 6.1. 1 Cor. 6.17. Mat. 19.9. &amp; 5.32.</note> 
+                  <hi>are not joyned to<g ref="char:EOLhyphen"/>gether by God, neither is the Matrimony lawful:</hi> In what ſenſe the Matrimony is unlawful, or to what end thoſe words are mentioned, is very doubtful. It is true, there may be divers things in Marriage unwarrantable by the Word of God; as for a <hi>Beleever</hi> to marry an <hi>Unbeleever,</hi> or <hi>true Chriſtians</hi> to marry <hi>Idolaters,</hi> or for <hi>Children</hi> to marry without <hi>Parents</hi> conſent, <hi>&amp;c.</hi> But yet <hi>Marriages</hi> are appointed (as Chriſt ſaith) by God; and when once made, there is no ground of divorce, except adultery.</p>
+               <p n="58">58. <hi>Tying Marriage to the Miniſter, and ſo making it holy:</hi> which in it ſelf is bat <hi>Civil</hi> and <hi>Natural,</hi> and did belong rather to the <hi>Civil Magiſtrate,</hi> than to the <hi>Mini<g ref="char:EOLhyphen"/>ſter</hi> to perform; <hi>Ruth</hi> 4.11, 12.13.</p>
+               <p n="59">59. <hi>The uſing of the Ring in Marriage;</hi> which in it ſelf
+<pb n="28" facs="tcp:108883:20"/>may be <hi>indifferent;</hi> yet making it eſſential to Marriage it ceaſeth to be <hi>indifferent.</hi>
+               </p>
+               <p n="60">60. <hi>The man in Marriage promiſeth to the woman, that with his body he will worſhip her:</hi>
+                  <note place="margin">Luk. 14.10.</note> Though there be civil worſhip, yet it is due from an <hi>Inferiour</hi> to a <hi>Superiour</hi> and not from a <hi>Superiour</hi> to an <hi>Inferiour</hi> or <hi>Equal,</hi>
+                  <note place="margin">Matrimony.</note> as the woman is.</p>
+               <p n="61">61. <hi>There is one Prayer to bee omitted by the Miniſter, where the woman is paſt childe-bearing.</hi> Sure they are ve<g ref="char:EOLhyphen"/>ry skilful <hi>Parſons, Vicars,</hi> and <hi>Curates,</hi> that can judge what women are paſt <hi>childe-bearing:</hi> but no great mat<g ref="char:EOLhyphen"/>ter, for they bear neither <hi>leſs</hi> nor <hi>more,</hi> for their praying or not praying for them.</p>
+               <p n="62">62. <hi>The new married perſons the ſame day of their mar<g ref="char:EOLhyphen"/>riage muſt receive the Communion:</hi> They that will under<g ref="char:EOLhyphen"/>ſtand Rule or Reaſon for this practice, muſt go to <hi>Rome</hi> at leaſt. And how ſhall thoſe married perſons have the Sacrament, that the Curate marries under a Hedge, or in a Wood, or in a blinde Ale-houſe, as 'tis too com<g ref="char:EOLhyphen"/>mon in ſome Countries?</p>
+               <p n="63">63. It is that the <hi>Marriage-Ring</hi> is a token and pledge of the Covenant made in <hi>Marriage;</hi> and that Marriage doth ſignifie the myſtical union between Chriſt and his Church; for the firſt, it is needleſs, and for the other it is utterly falſe, if it be underſtood of all Marriages. It is true, the union between <hi>Adam</hi> and <hi>Eve</hi> did ſignifie the myſtical union between Chriſt and his Church.</p>
+               <p n="64">64. <hi>In the Viſitation of the ſick,</hi>
+                  <note place="margin">Viſit. of the ſick</note> 
+                  <hi>the Miniſter ſaith, That Chriſt hath left power to his Church to abſolve all ſinners which truly repent and beleeve;</hi> 1. Sure if hee hath given power to his Church, yet hee hath not given power to any <hi>Parſon,</hi> no nor <hi>Pope,</hi> to ſay what he doth adventure there to ſay, <hi>I abſolve thee from all thy ſins.</hi>
+               </p>
+               <p n="2">2. <hi>The power that Chriſt hath left in his Church to ab<g ref="char:EOLhyphen"/>ſolve,</hi> is to be exerciſed in <hi>restoring</hi> and <hi>receiving</hi> the Members that were before caſt out for ſin, upon their re<g ref="char:EOLhyphen"/>pentance, 2 <hi>Cor.</hi> 2. 6, 7, 8, 9. <hi>Gal.</hi> 6.1. <hi>Matth.</hi> 18.18. 1 <hi>Cor.</hi> 5.5.</p>
+               <p n="65">
+                  <pb n="29" facs="tcp:108883:20"/>
+65. <hi>To give the Communion when a man is ſick at home, and in the time of Plague, and upon ſpecial requeſt of the diſeaſed perſon. The Minister onely may communicate with him.</hi>
+                  <note place="margin">Private Com<g ref="char:EOLhyphen"/>munion.</note> Such a Communion is not warranted by the word of God; and to adminiſter it thus, cannot but be Popiſh, both in the end and manner. By this alſo the Miniſter is ty'd to go to the Houſes where the Plague is, and to communicate alone with him. This is contrary to the Scripture, 1 <hi>Cor.</hi> 10. &amp; 11. and the Nature of a Com<g ref="char:EOLhyphen"/>munion, yea, to the Rule given in the end of publick Communion.</p>
+               <p n="66">66. <hi>Appointing ſinging at Burials.</hi>
+                  <note place="margin">At Burials.</note> Which is contrary to the Rule preſcribed by the Apoſtle, <hi>James</hi> 5.13.</p>
+               <p n="67">67. <hi>To ſay of every one buried, This our dear brother here departed:</hi> They have a large Faith that can beleeve that all they bury are ſuch: I would adviſe ſuch to bu<g ref="char:EOLhyphen"/>ry none of the <hi>Sectaries,</hi> or <hi>Fanaticks,</hi> leſt at their burial they confeſs what in their life-time they did deny, (<hi>viz.</hi>) to <hi>account them Brethren.</hi>
+               </p>
+               <p n="68">68. Reading and praying over the dead, without any command or example in Scripture.</p>
+               <p n="69">69. <hi>Churching of women,</hi>
+                  <note place="margin">Churching of women.</note> applying <hi>Pſal.</hi> 121. to the <hi>Woman,</hi> which is meant of the <hi>Church</hi> of God.</p>
+               <p n="70">70. <hi>The woman muſt offer an accustomed offering.</hi> Is not this to bring them back to the Law of <hi>Moſes?</hi> Lev. 12. And are not theſe ſuch as lead ſilly women away? ac<g ref="char:EOLhyphen"/>cording to that Scripture, 2 <hi>Tim.</hi> 3.6. For they (<hi>viz.</hi> the Parſons, Vicars, and Curates) creep into houſes, yea, into womens chambers often to Church them, as they call it. Is not this a private Conventicle?</p>
+               <p n="71">71. <hi>That in the Primitive Church there was a godly Diſ<g ref="char:EOLhyphen"/>ſcipline,</hi>
+                  <note place="margin">
+                     <hi>Commination.</hi> Thoſe Judge<g ref="char:EOLhyphen"/>ments denoun<g ref="char:EOLhyphen"/>ced in Deut. 27. was not part of the publick worſhip to bee performed by the Prieſts, but onely done upon Mount <hi>Ebal</hi> by ſix of the Tribes onely; and therefore no example for Goſpel-daies.</note> 
+                  <hi>that at the beginning of Lent ſuch Perſons as were notorious ſinners were put to open Penance,</hi> &amp;c. Are not theſe words as Honey and Wine to the Papiſts, to grant them at once <hi>Lent</hi> and <hi>Penance,</hi> and their Church to be the Primitive Church? <hi>Sed ab Origine non fuit ita.</hi>
+               </p>
+               <p n="72">
+                  <pb n="30" facs="tcp:108883:21"/>
+72. <hi>That Diſcipline is much to be wiſhed.</hi> Is not to wiſh <hi>Penance,</hi> to wiſh <hi>Popery?</hi> for the Papiſts in the places where we read repent, they tranſlate <hi>do penance;</hi> ſo after denouncing the Judgement, they ſay, <hi>Let us ſeek to bring forth fruits worthy of penance;</hi> which is otherwiſe,<note place="margin">The word <hi>Pe<g ref="char:EOLhyphen"/>nance</hi> is in ſe<g ref="char:EOLhyphen"/>veral other places.</note> and more truly rendred in <hi>Mat.</hi> 3.8. <hi>Repent, or change your mind,</hi> as the word <hi>Metanoeite</hi> ſignifies.</p>
+               <p n="73">73. <hi>In the Prayer appointed to be ſaid at the point of death,</hi> (mark, not prayed) the Common-Prayer-Book teaches the poor people that are ignorant to pray in Latine, <hi>In manus tuas commendo spiritum meum,</hi> and again, <hi>Domine Jeſu accipe ſpiritum meum;</hi> this is not to pray with under<g ref="char:EOLhyphen"/>ſtanding, as the Apoſtle ſpeaks: but to aſſure the Papiſts,<note place="margin">1. Cor. 14.</note> that the perſon deceaſed died with their faith in his heart, as well as their language in his mouth?</p>
+               <p>Many other things might be objected againſt, as the miſapplying of divers Scriptures, as <hi>Mat.</hi> 4. is applied to the <hi>Lenten faſts,</hi> and <hi>Rev.</hi> 14.1, 5. concerning (the 44000 that are ſealed) is applied to the children that <hi>Herod</hi> cauſed to be ſlain, &amp;c. ſo there are <hi>Untruths</hi> in it, as in the <hi>Calender.</hi> That nothing is ordained to be read but the very pure Word of God, and that all the <hi>Ceremonies</hi> pertain to edification, &amp;c. Likewiſe ſomewhat that is good in the Book ſtabliſhed by King <hi>Edward</hi> the ſixth is left out, <hi>viz. From the tyranny of the Biſhop of</hi> Rome, <hi>and all his deteſtable Enormities good Lord deliver us.</hi> It is alſo worthy obſervation, that above twenty years ago, ſome godly Preachers (that did refuſe to read, and that did alſo preach againſt the preſent Book of Common-Prayer, both in <hi>London,</hi> and in divers Counties) were acquitted from their Inditements: becauſe the Act that enjoy us the Book of Common-Prayer (under paenalty) commands that very Book, and no other, ſtabliſhed by <hi>Edward</hi> the ſixth, with one ſentence added in the Adminiſtration of the Sacrament, and a ſentence altered in the Letany; but this is not altered, but quite raz'd out. And by that very act whoever reads this preſent Book of Common-Prayer, ſhould for the firſt fault, forfeit half his yearly <hi>Eccleſiaſti<g ref="char:EOLhyphen"/>cal</hi>
+                  <pb n="31" facs="tcp:108883:21"/>Revenue, which if all the <hi>Readers</hi> of Common-Prayer were forced to do, their zeal for that <hi>Idol</hi> would ſoon cool.</p>
+            </div>
+            <div type="arguments">
+               <head>
+                  <hi>Arguments to prove, that</hi> Lord-Biſhops, <hi>or</hi> Dioceſan-Biſhops, <hi>&amp;c. and their</hi> Authority, <hi>are contrary to the Word of God, and ſo conſequently unlawful. And the chiefeſt Objections for</hi> Dioceſan-Biſhops, <hi>anſwered.</hi>
+               </head>
+               <head type="sub">
+                  <hi>Alſo a</hi> Diſcovery <hi>of the great</hi> Diſparity <hi>between Scriptural, Apoſtolical, Congregational</hi> (<hi>particularly</hi> Timothy <hi>and</hi> Titus) Biſhops, <hi>and</hi> Dioceſan-Biſhops.</head>
+               <p>THat which is abſolutely forbidden by Chriſt and his Apoſtle <hi>(viz. Peter)</hi> is unlawful:<note place="margin">Argum. 1.</note>
+               </p>
+               <p>But for any Miniſters (<hi>extraordinary</hi> or <hi>ordinary</hi>) to ex<g ref="char:EOLhyphen"/>erciſe Lorſhip, or be Lords over one another, or the Heri<g ref="char:EOLhyphen"/>tage (or Church) of God is abſolutely forbidden both by Chriſt and his Apoſtle <hi>(viz. Peter.)</hi>
+               </p>
+               <p>Therefore for any to be <hi>ſuch,</hi> or to exerciſe ſuch power, is utterly unlawful.</p>
+               <p>The <hi>Major,</hi> or firſt <hi>Propoſition,</hi> none can deny, But that which <hi>Chriſt</hi> and his <hi>Apoſtle</hi> do forbid, is utterly unlawful.</p>
+               <p>The <hi>Minor</hi> is clearly and ſtrongly proved out of <hi>Mat.</hi> 20.25. <hi>Luk.</hi> 22.25. 1 <hi>Pet.</hi> 5.1, 3. The words in <hi>Matthew</hi> are,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>But Jeſus called them unto him, and ſaid, Ye know that the Princes of the Gentiles exerciſe Dominion</hi> (or as it is in the Greek there, and in <hi>Luke, exerciſe Lordſhip</hi>) <hi>over them. But it ſhall not be ſo among you:</hi> or, as <hi>Luke</hi> ſaith,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>But ye ſhall not be ſo.</hi> Obſerve here, <hi>to whom, of whom,</hi> and <hi>upon what</hi> occa<g ref="char:EOLhyphen"/>ſion Chriſt ſpoke theſe words. He ſpake theſe words to the ten <hi>Apoſtles</hi> or <hi>Diſciples,</hi> v. 24. concerning <hi>James</hi> and <hi>John;</hi> and the occaſion was the indignation of the other ten againſt their two Brethren. Where note, 1. That they were all <hi>Chriſtians, Brethren,</hi> (<hi>Judas</hi> excepted) <hi>Preachers</hi> and <hi>Apoſtles.</hi> 2. That thoſe that were offended were <hi>ten</hi> to <hi>two.</hi> 3. The ten had ſome ſeeming ground to exerciſe <hi>Au<g ref="char:EOLhyphen"/>thority</hi> over the two;<note place="margin">A good Cauti<g ref="char:EOLhyphen"/>on to <hi>Peters</hi> Succeſſor. Mark 10.35.</note> for the two began to ſeek pre-emi<g ref="char:EOLhyphen"/>nence over them firſt, (yea, of <hi>Peter</hi> and <hi>Andrew</hi> that were called before them to be Apoſtles) in deſiring that they
+<pb n="32" facs="tcp:108883:22"/>might ſit the one <hi>on Chriſts right hand,</hi> and the other <hi>on his left in his Kingdome:</hi> and yet mark how Chriſt allays that <hi>evil, proud,</hi> and <hi>Prelatical</hi> Spirit that was beginning to riſe in them; he beats it down with both hands, urging three ſtrong <hi>Arguments</hi> to diſſwade them from this Lordlineſs. <hi>Firſt,</hi> ſaith he, <hi>The Princes of the Gentiles do exerciſe dominion over them</hi> (not that Chriſt doth allow Princes and great men to exerciſe power over his Miniſters and people to perſecute them) and 'tis as if Chriſt had ſaid, <hi>Princes</hi> and not <hi>Preachers</hi> ſhould exerciſe <hi>Lordſhip;</hi> and the great ones a<g ref="char:EOLhyphen"/>mong the Gentiles, to wit, <hi>ſinners,</hi> and not the good ones among the Saints, <hi>claim and exerciſe</hi> this Lordly-power: and they and you will have enough,<note place="margin">A ſeaſonable Conſideration. The beſt way to make Preachers good, is to keep them low, and from medling with Lordly power.</note> and too much <hi>indig<g ref="char:EOLhyphen"/>nation</hi> and <hi>perſecution</hi> from theſe; and therefore be not of a high and Lordly ſpirit over one another Secondly (ſaith he) <hi>Whoſoever would be greateſt and chiefeſt among them, ſhould be their Miniſters and Servants,</hi> v. 26, 27. Thirdly, He gives them his own example of humility towards them; <hi>Even as the Son of man came not to be miniſtered unto but to miniſter.</hi> Likewiſe that place be fore cited in <hi>Peter</hi> (better known than obſerved by the Clergy) is moſt pat, and like <hi>Davids</hi> ſtone,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> knocking this <hi>Goliah Epiſcopacy</hi> in the fore-head; <hi>Neither,</hi> ſaith he, <hi>being Lords over Gods Heritage,</hi> or not as though ye were <hi>Lords</hi> of the Heritages. Thus much for the firſt Argu<g ref="char:EOLhyphen"/>ment.<note place="margin">Argum. 2.</note>
+               </p>
+               <p>That which is directly contrary to what the Spirit of God hath appointed, muſt needs be unlawful:</p>
+               <p>But for one Biſhop to be over divers (or many particu<g ref="char:EOLhyphen"/>lar Churches) is directly contrary to what the Spirit of God hath appointed.</p>
+               <p>
+                  <hi>Ergo,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> for one <hi>Biſhop</hi> to bee over divers particular Churches, is unlawful. The Major is <hi>larior ſole,</hi> clearer than the Sun, and needs no proof.</p>
+               <p>The Minor I prove thus: The Holy Ghoſt hath ap<g ref="char:EOLhyphen"/>pointed ſeveral Biſhops in one particular Church. The words are plain, in <hi>Act.</hi> 20.28. <hi>Take heed therefore to your ſelves, and to the whole flock over the which the Holy Ghoſt hath made you over-ſeers.</hi> Or more near the Greek, <hi>Take heed therefore to your ſelves, and feed the whole flock in which
+<pb n="33" facs="tcp:108883:22"/>the Holy Ghoſt hath put you Biſhops.</hi> In that particular Church of <hi>Epheſus</hi> there were ſeveral <hi>Biſhops,</hi> or as they are called in the 17 verſ. <hi>Elders</hi> (which are the ſame; for <hi>Peter,</hi> though an Apoſtle, calls himſelf an <hi>Elder</hi>) ſo in the Church of <hi>Philippi,</hi> there were ſeveral <hi>Biſhops,</hi> as well as <hi>Deacous,</hi>
+                  <note place="margin">1 Pet. 5.7,</note> 
+                  <hi>Phil.</hi> 1.1. Then to appoint or ſet up one <hi>Biſhop</hi> over divers Congregations, as over three or four hundred, nay ſome o<g ref="char:EOLhyphen"/>ver a hundred Pariſhes, is to do contrary to what the Spirit of the Lord hath done. Therefore 'tis unlawful.</p>
+               <p>That order which is contrary to the order which the A<g ref="char:EOLhyphen"/>poſtles ſet up in the Churches of the Gentiles, is unlawful:<note place="margin">Argum. 3.</note>
+               </p>
+               <p>But the order of <hi>Lordly</hi> or <hi>Dioceſan-Biſhops</hi> is contrary to that order which the Apoſtles ſet up in the Churches of the Gentiles. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Therefore unlawful.</p>
+               <p>The <hi>Propoſition</hi> will not be denied; for what the Apoſtles received from Chriſt, they ſet up in the Churches, 1 <hi>Cor.</hi> 11.23. &amp; 14.3.7. <hi>Act.</hi> 15.29. &amp; 16.4.</p>
+               <p>The Aſſumption I prove thus: The order that the A<g ref="char:EOLhyphen"/>poſtles ſet up in the Churches of the Gentiles, was <hi>Biſhops</hi> or <hi>Elders</hi> (which were of equal <hi>power</hi> and <hi>authority,</hi> as is ſhewed before, and will more fully be afterward) in every Church, <hi>Act.</hi> 14.23. <hi>Tit.</hi> 1.5, 7. But Dioceſan order is to ſet up one Biſhop over many Churches; which order is con<g ref="char:EOLhyphen"/>trary to the order ſet up by the Apoſtles, and ſo conſequen<g ref="char:EOLhyphen"/>tially unlawful. They that walk contrary to the Rules of the Apoſtles, walk contrary to the Lord himſelf, 1 <hi>Cor.</hi> 11.1. <hi>Epheſ.</hi> 5.1.2 <hi>Theſ.</hi> 3.9. and they that walk contrary to the Lord, the Lord will walk contrary to them, <hi>Lev.</hi> 26.21, 41.</p>
+               <p>That Office and Authority which makes a man utterly uncapable of performing the duties belonging properly to his <hi>Function,</hi> is unlawful:<note place="margin">Argum. 4.</note>
+               </p>
+               <p>But <hi>Lordly</hi> or <hi>Dioceſan</hi> power makes a man utterly un<g ref="char:EOLhyphen"/>capable of performing the duties belonging to his <hi>Function.</hi>
+               </p>
+               <p>Therefore <hi>Lordly</hi> or <hi>Dioceſan Power</hi> is unlawful.</p>
+               <p>The Major none but ſuch as are willing to ſhun perfor<g ref="char:EOLhyphen"/>ming their Duties, will deny.</p>
+               <p>The Minor is proved by conſidering what the Duties are which belong to the <hi>Function of Biſhops;</hi> to wit, to <hi>know their ſtocks, watch over them, feed,</hi> and <hi>comfort</hi> them; to <hi>reſolve
+<pb n="34" facs="tcp:108883:23"/>their doubts, viſit</hi> them, and <hi>adminiſter the Lords Supper of<g ref="char:EOLhyphen"/>ten unto them, &amp;c.</hi> Prov. 27.23. 1 Theſ. 5.12, 13. Heb. 13.7, 17. Act. 20.28. 2 Cor. 1.4. James 5.14. 1 Cor. 11.23, 26. and how any <hi>Dioceſan-Biſhops</hi> (whoſe power extends in ſome Dioceſſes over ſeveral Counties) can poſſibly do this, let any judge.</p>
+               <p>That which doth neceſſarily introduce the Popes power over the Churches of Chriſt,<note place="margin">Argum. 5.</note> is unlawful:</p>
+               <p>But the office of Lord-Biſhops, or Dioceſan-Biſhops doth neceſſarily introduce the Popes power over the Churches of Chriſt.</p>
+               <p>Therefore the office of Lord-Biſhops and Dioceſan-Biſhops is unlawful.</p>
+               <p>None but Papiſts will oppoſe the firſt.</p>
+               <p>The ſecond I prove thus: They that have their <hi>Ordina<g ref="char:EOLhyphen"/>tion</hi> from the Pope (and ſo conſequently their <hi>Miniſtry,</hi> for <hi>Ordinatio apud Epiſcopos, eſt cauſa ſine qua non,</hi> &amp;c. for a man, though never ſo well qualified, is not accounted by them a Miniſter without it) do introduce the Popes power over the Churches of Chriſt: But <hi>Dioceſan</hi> or <hi>Lord-Biſhops</hi> have their Ordination from the Pope. <hi>Ergo.</hi> I prove they have their <hi>Ordination</hi> from the Pope: They that have their Ordination from the <hi>Archbiſhop,</hi> have their <hi>Ordination</hi> from the Pope, as holy <hi>Crunmer</hi> confeſſed they had (and as one lately made Biſhop,<note place="margin">Mr. <hi>Nichols,</hi> formerly Mini<g ref="char:EOLhyphen"/>ſter in <hi>Carmar<g ref="char:EOLhyphen"/>then</hi> in <hi>South-Wales</hi> now (as they ſay) Biſhop of <hi>Glo<g ref="char:EOLhyphen"/>ceſter.</hi>
+                  </note> acknowledged before many witneſſes, in a conference with mee in <hi>Carmarthen,</hi> for which ſome of his own friends blamed him.) For if the <hi>Archbiſhop</hi> hath not his Ordination from the Pope, then he hath none at all, and ſo is no Miniſter at all; and ſo hath no power to <hi>ordain</hi> other <hi>Biſhops,</hi> nor they any other Miniſters; for, <hi>Nemo dat quod in ſe non habet.</hi> So that it is eaſie to derive the Pedigree of our Dioceſan-Biſhops. And the learned Pa<g ref="char:EOLhyphen"/>piſts who are well verſed in this Genealogy, know their de<g ref="char:EOLhyphen"/>ſcent perfectly, that the <hi>Biſhops</hi> and themſelves have but one <hi>Grand-father,</hi> whoever their <hi>Grand-mother</hi> or <hi>Mother</hi> is,</p>
+               <p>Obj. But if it be objected, <hi>That one Biſhop hath power to or<g ref="char:EOLhyphen"/>dain another, and ſo they need not have dependance upon the Pope for their Ordination.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> I anſwer, If one Biſhop ordain another, either hee
+<pb n="35" facs="tcp:108883:23"/>ordains him as another <hi>ordinary Miniſter</hi> (or Prieſt, as they ſay) or as a Biſhop: If as another ordinary Miniſter, then a Biſhop is not of another or higher Order than the ordina<g ref="char:EOLhyphen"/>ry Miniſter is of; but they are <hi>Equal</hi> in degree, and then <hi>par in parens non habet imperium.</hi> And this will not ſatisfie the Biſhops.</p>
+               <p>If he ordained him firſt as a <hi>Miniſter,</hi> and afterwards as a Biſhop, he hath had two Ordinations, for which there is no Rule in Scripture.</p>
+               <p>Obj. <hi>But the Archbiſhop doth but conſecrate and confirm the Biſhop.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Suppoſe that were a diſtinct thing from <hi>Ordination</hi> (which cannot be proved from the Word of God) yet who ſhall conſecrate the Archbiſhop? either it muſt be his <hi>In<g ref="char:EOLhyphen"/>feriour, Equal,</hi> or <hi>Superiour:</hi> ſurely it will not be admitted that his <hi>Inferiour</hi> ſhould do it, for by that <hi>Rule</hi> and <hi>Reaſon,</hi> ordinary Miniſters (which they call Prieſts, and account to be of a lower rank than Biſhops) may ordain Biſhops. An <hi>Equal</hi> cannot do it, becauſe that the <hi>Archbiſhop</hi> of <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> hath no <hi>Fellow</hi> (unleſs the Archbiſhop of <hi>York</hi>) then of neceſſity there muſt be application to a <hi>Superiour,</hi> and there is no ſuch (that aſſumes any Authority to admi<g ref="char:EOLhyphen"/>niſter Eccleſiaſtical Ordinances) except the Pope himſelf. So that by cloſe purſuit, you may finde where theſe <hi>Foxes</hi> are, or will be kennell'd. Let us therefore with the Church pray, <hi>Take us</hi> (or as it is in the Hebrew, <hi>gnalu</hi> for us) <hi>the little Foxes that ſpoil the Vines, for our Vines have tender Grapes,</hi> Cant. 2.15.</p>
+               <p>That Order and Office which hath many unſcriptural Inferiour Officers depending thereon,<note place="margin">Argum. 6.</note> and are as branches thereof, is unlawful.</p>
+               <p>But the Order and Office of Dioceſan and Lord-Biſhops hath many unſcriptural Officers depending thereon, and are branches thereof. Therefore it is unlawful.</p>
+               <p>The former is proved, 2 <hi>Chron.</hi> 13.9. <hi>Ezek.</hi> 43.3. <hi>Act.</hi> 23.3. when <hi>Paul</hi> ſaid to <hi>Ananias</hi> the High Prieſt, <hi>Thou whited wall, &amp;c.</hi> doubtleſs he looked upon him to be irre<g ref="char:EOLhyphen"/>gular in the Office (as the corruption was grown among the Jews to have a Sagan; anſwerable thereto, ſure are
+<pb n="36" facs="tcp:108883:24"/>Suffragans) and when he ſaid, <hi>I wiſt not that he was the High Prieſt,</hi> he ſpake it Ironically, and 'tis as if he had ſaid, <hi>I knew him not to be an High Prieſt, but I looked upon him as one that doth uſurp the place.</hi> Surely <hi>Paul</hi> knew the <hi>High Prieſt,</hi> and his power well enough; but he ſpake to him as <hi>Diogenes</hi> ſaid to <hi>Alexander</hi> the Great, <hi>I do not know</hi> Alex<g ref="char:EOLhyphen"/>ander <hi>the King, but I know</hi> Alexander <hi>the Tyrant.</hi>
+               </p>
+               <p>The Minor or latter, that the Dioceſan and Lord-Biſhops have many unſcriptural inferiour Officers, as <hi>Deans, Deans and Chapters, Archdeacons, Commiſſaries, Chancellors, Ca<g ref="char:EOLhyphen"/>nons, Reſidents, Prebendaries, Peticanons, &amp;c.</hi> ſuch a rabble<g ref="char:EOLhyphen"/>rout, that ſome (who have ſearched the Neſt) affirm, that there are from the bottom to the top, from the <hi>Van</hi> to the <hi>Rear,</hi> thirty eight diſtinct Officers, that is, thirty above what Chriſt hath put in his Church. So having done with theſe <hi>Syllogiſtical Arguments,</hi> I will now lay down a few more plain <hi>Reaſons</hi> againſt <hi>Dioceſan Lord-Biſhops,</hi> and their Power.</p>
+               <p>Becauſe there is no difference made in the Scripture be<g ref="char:EOLhyphen"/>tween <hi>Biſhops</hi> and other <hi>Goſpel-Miniſters,</hi>
+                  <note place="margin">Argum. 7.</note> called <hi>Elders.</hi> See <hi>Act.</hi> 20.17. and 28. <hi>Mat.</hi> 6.37. <hi>Col.</hi> 1.23. <hi>Phil.</hi> 1.1. <hi>Tit.</hi> 1.5, 6, 7. Note, that where the Church-Officers are mentioned in Scripture, the <hi>Biſhops</hi> are never named as a diſtinct Or<g ref="char:EOLhyphen"/>der from the <hi>Elders,</hi> but onely from the Deacons, <hi>Rom.</hi> 12.6, 7, 8. <hi>Epheſ.</hi> 4.11, 12.</p>
+               <p>Obj. <hi>Yea there is mention made of Helps and Governments,</hi> 1 Cor. 12.28.</p>
+               <p>
+                  <hi>Anſ.</hi> Though he ſpeaks of <hi>Helps</hi> and <hi>Governments,</hi> yet it is in the <hi>fifth</hi> or <hi>ſixth</hi> place after <hi>Apoſtles, Prophets, Teach<g ref="char:EOLhyphen"/>ers,</hi> &amp;c. and not in the firſt nor ſecond <hi>rank.</hi> So that if any can ſpy out <hi>Epiſcopacy</hi> here, I am ſure they can neither in this place, nor elſewhere in Scripture finde <hi>Lord-Biſhop,</hi> nei<g ref="char:EOLhyphen"/>ther in <hi>name</hi> nor <hi>power,</hi> nor in that <hi>Rank</hi> and <hi>Order</hi> they place themſelves no though you thus reckon. Firſt the Pope; ſe<g ref="char:EOLhyphen"/>condly, the Cardinal; thirdly, the Archbiſhop; fourthly, the Dioceſan-Biſhop; there you finde them in their proper place, but not in the Scripture.</p>
+               <p n="2">2. It is ſaid, <hi>Aquila</hi> and <hi>Urbane,</hi> (nay, <hi>Priſcilla</hi> a woman) were <hi>Helpers</hi> (of <hi>Paul</hi>) in Chriſt Jeſus, <hi>Rom.</hi> 16.3, 9. and yet
+<pb n="37" facs="tcp:108883:24"/>they were no <hi>Biſhops.</hi> It were to be wiſhed that the Biſhops were as good <hi>Helpers</hi> as they were, and as like <hi>Timothy</hi> (whom they would have to bee a <hi>Biſhop</hi>) bee ready to carry a poor painful perſecuted Preachers <hi>Cloak, Books,</hi> &amp;c. as he did <hi>Pauls.</hi> And thus they would obey the commands of Chriſt, who ſaid, <hi>Whoſoever will be great among you, let him be your Miniſter;</hi> and, <hi>Whoſoever will be chief among you, let him be your ſervant,</hi> Mat. 20.26, 27. I ſuppoſe all know who would be <hi>greateſt</hi> and <hi>chiefeſt</hi> among the Miniſters: but do any know which of them will be content to learn this Leſ<g ref="char:EOLhyphen"/>ſon of Chriſt? for ſuch a Biſhop would we give our voice: nay, I am contented that the <hi>Biſhops ſhould have the chiefeſt care of ſo many as they have converted, or fed. This granted, it is ſuppoſed their power will not be too great.</hi>
+               </p>
+               <p>Becauſe they are created by men, (<hi>viz.</hi> by the <hi>Kings</hi> or <hi>Princes,</hi>
+                  <note place="margin">Argum. 8.</note> in whoſe Dominions they are) and I may ſay to them, as the Boy ſaid to the Doctor, <hi>That God made his Fa<g ref="char:EOLhyphen"/>thers Ox a Bull, but his Father made him an Ox: God made them men, but the King made them Biſhops.</hi> See <hi>Cook, De Jure Regis Eccleſiaſtico.</hi>
+               </p>
+               <p>Becauſe they depend upon man,<note place="margin">Argum. 9.</note> which the true Mini<g ref="char:EOLhyphen"/>ſters of Chriſt never did. <hi>Epiſcopacy is a Noune Adrective,</hi> that cannot ſtand by it ſelf, but it muſt be ſupported by the hand of the <hi>chief Magiſtrate:</hi> And they ſhelter themſelves under that Maxime of theirs, <hi>No Biſhop, no King.</hi> And the Biſhops ſay, <hi>No Ceremonie, no Biſhop,</hi> whether this be not to lay a weak foundation to Regal Authority, let any judge. The Proverb would be truer, <hi>No King, no Biſhop;</hi> for the King may very well ſubſiſt without them,<note place="margin">Simile.</note> but they like <hi>Colewerts</hi> cloſe to the <hi>Vine,</hi> draw the fatneſs of the earth from it to themſelves: Or like the <hi>Ivy</hi> to the <hi>Oak,</hi>
+                  <note place="margin">Simile.</note> ſheltring it ſelf under its arms and boughs, but in the mean time, keeping much of the vertue of the Sun from the Tree.</p>
+               <p>A tenth Reaſon to prove <hi>Dioceſan Biſhops</hi> to be unlaw<g ref="char:EOLhyphen"/>ful,<note place="margin">Argum. 10.</note> is, becauſe they do imitate the Prieſts of the Law ſo much in reſpect of their different degrees, order, &amp;c. as <hi>Archbiſhops</hi> anſwering the <hi>High Prieſts,</hi> the <hi>Presbyters,</hi> the other <hi>Priests,</hi> and the <hi>Deacons</hi> the <hi>Levites,</hi> and the <hi>Choriſter</hi> and <hi>Cantors</hi> the Jewiſh <hi>Singers;</hi> ſo their <hi>Organs</hi> and other
+<pb n="38" facs="tcp:108883:25"/>
+                  <hi>Inſtrument.</hi> They have alſo their <hi>Pauls</hi> anſwerable to the <hi>Temple;</hi> their <hi>Garments, Girdle, Mytre,</hi> &amp;c. like thoſe which the Prieſts did uſe;<note place="margin">Exod. 28.4, 5, 6.</note> alſo their <hi>Tables, Altars, Sacrifices, Ob<g ref="char:EOLhyphen"/>lations, Purifications</hi> of Women: and their <hi>Holy-days, Feaſts,</hi> with many ſuch things, anſwering to the Jew<g ref="char:EOLhyphen"/>iſh Feaſts:<note place="margin">Heb. 9.7, 8, 9.</note> but this is to ſet up the Legal Prieſt-hood a<g ref="char:EOLhyphen"/>gain, that was <hi>weak,</hi> and thoſe things which were but <hi>ſha<g ref="char:EOLhyphen"/>dows,</hi> and continued onely till the time of Reformation; And is not this to do altogether as bad as the <hi>Jewiſh Teachers</hi> did,<note place="margin">Gal. 3.4.</note> who indeavoured to bring back the <hi>Diſciples,</hi> who had begun in the Spirit, to end in the fleſh?</p>
+               <p>Obj. <hi>But how can they be Jewiſh, and yet Popiſh?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Very well; for the <hi>Pope</hi> and <hi>Papiſts</hi> are in a man<g ref="char:EOLhyphen"/>ner Imitators of the Jews; onely they borrow ſome <hi>Hea<g ref="char:EOLhyphen"/>theniſh Cuſtomes,</hi> and create ſome of their <hi>own</hi> for outward advantage. And doubtleſs it was the <hi>aim</hi> and <hi>indeavour</hi> of ſome of the late <hi>Biſhops,</hi> as might eaſily be ſeen by their Writings and works, that they intended to unite <hi>England</hi> to <hi>Rome:</hi> and what ſome of the preſent ones may do (be<g ref="char:EOLhyphen"/>ing <hi>Birds</hi> of the ſame feather) when their wings grow lon<g ref="char:EOLhyphen"/>ger; Time (which is the diſcoverer of things) will ſhew.</p>
+               <p>Becauſe <hi>Lordly</hi> and <hi>Dioceſan</hi> power is more than the <hi>A<g ref="char:EOLhyphen"/>poſtles of Christ</hi> did exerciſe either <hi>joyntly</hi> or <hi>apart.</hi>
+                  <note place="margin">Argum. 13.</note> For they impoſed no <hi>Canons</hi> or <hi>Decrees</hi> (except the pure Scrip<g ref="char:EOLhyphen"/>tures, the true Rule and Standard) upon any of the Churches (no, though a whole Synod of them were ga<g ref="char:EOLhyphen"/>thered together to make ſuch) but delivered, and left them to the Churches with this <hi>Recommendation, If you keep your ſelves, ye ſhall do well,</hi> Act. 15.29. Likewiſe <hi>Paul</hi> an <hi>Apoſtle,</hi> and <hi>Timothy</hi> a <hi>Biſhop</hi> (if you will have him ſo) would not exerciſe <hi>Dominion</hi> over the Faith of the Chri<g ref="char:EOLhyphen"/>ſtians,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Lordſhip.</note> 2 <hi>Cor.</hi> 1.1. compared with 24.</p>
+               <p>Laſtly, It will evidently appear that the <hi>Lordly Dioceſan-Biſhops,</hi> and their power are <hi>unwarrantable</hi> and <hi>unſcriptural,</hi> if we compare them with the <hi>Biſhops</hi> mentioned in Scrip<g ref="char:EOLhyphen"/>ture; and particularly with <hi>Timothy</hi> and <hi>Titus,</hi> who are ur<g ref="char:EOLhyphen"/>ged by them for Authority and Example.</p>
+               <list>
+                  <pb n="39" facs="tcp:108883:25"/>
+                  <head>
+                     <hi>Timothy</hi> and <hi>Titus</hi> were</head>
+                  <item>1. Begotten again, and converted by the Goſpel, 1 <hi>Tim.</hi> 1.1. <hi>Titus</hi> 1.4.</item>
+                  <item>2. True Diſciples and Servants of Jeſus Chriſt, <hi>Act.</hi> 16. <hi>Phil.</hi> 1.1.</item>
+                  <item>3. Men of good report, <hi>Act.</hi> 16.2. 2 <hi>Cor.</hi> 8.6.</item>
+                  <item>4. Inwardly and really affected to the people of God, 2 <hi>Cor.</hi> 7.15. <hi>Titus</hi> 1.8. as Brethren, <hi>Col.</hi> 1.1.</item>
+                  <item>5. Well acquainted with the Scriptures, and the Word of God, and having a gift to prophecy, 2 <hi>Tim.</hi> 3.15. and 1 <hi>Tim.</hi> 4.14.</item>
+                  <item>6. Doubtleſs choſen by the ſuffrages or voices of Church-members, as the manner was in chuſing Offi<g ref="char:EOLhyphen"/>cers, <hi>Acts.</hi> 6.3. and 14.22.</item>
+                  <item>7. Ordained ſolemnly by faſting and prayer, either by the <hi>Apoſtles, Presbyters,</hi> or <hi>Elders</hi> of the ſame Church or Churches they were of, <hi>Act.</hi> 6.6. and 13.3. 1 <hi>Tim.</hi> 4.14.</item>
+                  <item>8. Itinerant Preachers, going from Country to Country to preach the Goſpel, <hi>Act.</hi> 17.14. 1 <hi>Theſ.</hi> 1.3.</item>
+                  <item>9. Diligent Labourers in the Work of Chriſt and his Goſpel, called, <hi>Pauls work-fellows,</hi> Rom. 6.21. 1 Cor. 16.10.</item>
+                  <item>10. Naturally careful of the things of Chriſt, and of the welfare of Chriſtians, <hi>Phil.</hi> 1.19. 2 <hi>Cor.</hi> 8.16.</item>
+                  <item>11. Attendants and Miniſters to the Apoſtles, <hi>Act.</hi> 18.5. and 19.22. <hi>Gal.</hi> 2.1. 2 <hi>Tim.</hi> 4.10. but not their <hi>Chaplains.</hi>
+                  </item>
+                  <item>12. Meſſengers of the Churches of Chriſt, going from one Church to another, and carrying contribu<g ref="char:EOLhyphen"/>tion to the poor Saints, 2 <hi>Cor.</hi> 8.23. and 2 <hi>Cor.</hi> 8.6.</item>
+                  <item>13. Much refreſhed <hi>in</hi> and <hi>among</hi> the Saints and Churches of Chriſt, 2 <hi>Cor.</hi> 7.14.</item>
+                  <item>14. <hi>Perſecuted, impriſoned,</hi> and in bondage, for pro<g ref="char:EOLhyphen"/>feſſing, preaching, and practiſing the Doctrine of the Goſpel of Chriſt, <hi>Heb.</hi> 13.17. <hi>Col.</hi> 4.10.</item>
+                  <item>15. Such as did ordain Biſhops or Elders in the Churches of Chriſt according to the appointment of the Apoſtles, <hi>Tit.</hi> 1.5.</item>
+                  <item>16. Doubtleſs <hi>blameleſs, vigilant, ſober,</hi> of good beha<g ref="char:EOLhyphen"/>viour, <hi>&amp;c.</hi> 1 <hi>Tim.</hi> 3.23. <hi>Tit.</hi> 1.2. 1 <hi>Tim.</hi> 3.2.</item>
+               </list>
+               <list>
+                  <pb n="40" facs="tcp:108883:26"/>
+                  <head>
+                     <hi>Timothy</hi> and <hi>Titus</hi> (as appears in Scripture)</head>
+                  <item>1. Were not choſen to their Office by Dean and Chapter.</item>
+                  <item>2. Were not created by any earthly Kings or Princes.</item>
+                  <item>3. Were not conſecrated and confirmed by any Arch-biſhop or Pope.</item>
+                  <item>4. Did not call themſelves, neither were they called Lords. Though theſe men call themſelves ſo, as Dr. <hi>Godwyn, &amp;c.</hi> whereas Chriſt forbids his Apoſtles to be called Maſters, <hi>Mat.</hi> 23.8, 10. See <hi>James</hi> 3.1.</item>
+                  <item>5. Did not ſwear Canonical Obedience to any Archbiſhop.</item>
+                  <item>6. Did not require any that they did ordain, to ſwear Canonical obedience to them.</item>
+                  <item>7. Did not ask the Miniſters they ordained at their <hi>Ordination,</hi> Will you reverently obey the Ordinary and other chief Miniſters unto whom the <hi>Government</hi> and <hi>Charge</hi> is committed over you? &amp;c.</item>
+                  <item>8. When they did ordain other Miniſters, they did not ſay to them, <hi>Recipe Sanctum Spiritum, Receive the Holy Ghoſt,</hi> and, <hi>Take thou Authority to preach the Word of God.</hi>
+                  </item>
+                  <item>9. Tendred no Book of <hi>Articles, Canons,</hi> or <hi>Com<g ref="char:EOLhyphen"/>mon-Prayer-Books</hi> to theſe they ordained, nor required any to ſwear to ſuch things.</item>
+                  <item>10. Did not lay hands upon any to ordain them be<g ref="char:EOLhyphen"/>fore they were elected; much leſs ordain, or licenſe a<g ref="char:EOLhyphen"/>ny to be meer Readers.</item>
+                  <item>11. Did not intermeddle with Civil and Secular Af<g ref="char:EOLhyphen"/>fairs: they were neither honourable in <hi>Parliaments,</hi> nor <hi>Councils:</hi> nor <hi>Worſhipful Juſtices</hi> in the Countries.</item>
+                  <item>12. Had no <hi>Stately Palaces, Biſhops Lands,</hi> or thou<g ref="char:EOLhyphen"/>ſands to maintain them yearly.</item>
+                  <item>13. Had no <hi>High-Commiſsion-Courts,</hi> Court of Audience, Prerogative-Court, Court of Faculties, &amp;c. nor power to convene people at their pleaſures before them.</item>
+                  <item>14. Had no ſuch Officers under them as <hi>Deans, Archdeacons, Prebends, Chancellours, Commiſſaries, Ad<g ref="char:EOLhyphen"/>vocates,
+<pb n="41" facs="tcp:108883:26"/>Proctors, Purſevants, Apparitors,</hi> &amp;c.</item>
+                  <item>15. Uſed no ſuch <hi>Oaths,</hi> as the <hi>Oath ex Officio</hi> (to examine a man againſt himſelf) or the <hi>Etcaetera Oath,</hi> to ſwear to what ſhould, be added and put in after<g ref="char:EOLhyphen"/>wards by them.</item>
+                  <item>16. Did not impoſe <hi>penance, fines, impriſonment, &amp;c.</hi> upon people at their pleaſure.</item>
+                  <item>17. Did not wear <hi>Scarlet Gowns, Mytres, Laun<g ref="char:EOLhyphen"/>ſleeves, &amp;c.</hi>
+                  </item>
+                  <item>18. Did not ſell Livings for money, nor give them as <hi>Dowries</hi> or <hi>Portions</hi> with their <hi>Daughters</hi> or <hi>Kinſ<g ref="char:EOLhyphen"/>women</hi> to Miniſters.</item>
+                  <item>19. Did not ſilence any of the Miniſters of the Goſ<g ref="char:EOLhyphen"/>pel under the notion of <hi>Puritans</hi> and <hi>Factious perſons,</hi> but if they ſilenced any, it was by Scriptures, and ſound Arguments, as <hi>Titus</hi> was commanded, <hi>Tit.</hi> 1.</item>
+                  <item>20. They did not preſent Miniſters (as the Biſhops uſed to do) for preaching without licenſe, or in a Coat, or Cloak, or godly people for going out of their own Pariſhes to hear Sermons; or for meeting in pri<g ref="char:EOLhyphen"/>vate to read the Scriptures, repeat Sermons, pray, &amp;c. or for not ſtanding at the Creed, not bowing at the Name of Jeſus, for wearing ones hat at Sermon-time, for not obſerving Popiſh-Holy-days, &amp;c.</item>
+                  <item>21. Did not cauſe any of the Beleevers to be <hi>fined, impriſoned, ſtigmatized,</hi> and to have their ears cut off, &amp;c. or <hi>baniſhed</hi> under the notion of <hi>Sectaries,</hi> or <hi>Schiſ<g ref="char:EOLhyphen"/>matical perſons.</hi>
+                  </item>
+                  <item>22. Did not require the ſole power of <hi>Ordination</hi> and Juriſdiction, like <hi>Demetrius.</hi>
+                  </item>
+                  <item>23. Did not neglect to preach the Goſpel, or think it enough to appoint others under, or for them to do it. Did not make Preachers, Phyſicians, School-Ma<g ref="char:EOLhyphen"/>ſters, Clerks, Midwives, &amp;c. buy and often renew their licences, &amp;c.</item>
+                  <item>24. Were not given to <hi>Wine,</hi> or greedy of filthy lucre: not ſoon angry, <hi>brawlers,</hi> ſelf-will'd, <hi>proud,</hi> conten<g ref="char:EOLhyphen"/>tious, and ill Examples in their <hi>Families</hi> or Country.</item>
+                  <item>25. Did not remove from one <hi>Dioceſs</hi> to another for greater preferment.</item>
+                  <item>
+                     <pb n="42" facs="tcp:108883:27"/>
+26. Had not under them <hi>dumb, lazy, prophane, Popiſh Prieſts,</hi> and <hi>Parſons,</hi> that have not onely pluralities of <hi>Livings,</hi> but pluralities of Offices belonging to their Hierarchy.</item>
+               </list>
+               <p>Having thus laid down the <hi>Reaſons</hi> againſt <hi>Archbiſhops</hi> and <hi>Dioceſan Lord Biſhops,</hi> and likewiſe having ſhewed you the difference between theſe <hi>Worldly Monſters,</hi> and true Goſpel-Biſhops: it will in the laſt place be neceſſary to an<g ref="char:EOLhyphen"/>ſwer ſome of the main <hi>Objections:</hi> and they are not many (as I apprehend) that can be made, nor any but may be eaſily and ſoon anſwered; though mens wanton and worldly wit, <hi>ſelf-intereſt,</hi> and ſinful ſophiſtry would imagine more than are real.</p>
+               <p>Obj. <hi>But were there not Biſhops in the daies of the A<g ref="char:EOLhyphen"/>poſtles? Was not</hi> Timothy <hi>Biſhop of</hi> Epheſus, <hi>and</hi> Titus <hi>Biſhop of</hi> Crete?</p>
+               <p>
+                  <hi>Anſ.</hi> There is no Scripture that proves either of them to be Biſhops at all, much leſs Biſhops of thoſe places.</p>
+               <p>Obj. <hi>What? Doth not</hi> Paul <hi>in his ſuperſcription or ſub<g ref="char:EOLhyphen"/>ſcription direct his Epiſtle to them as ſuch?</hi> 2 Tim. 4. end Tit. 3. end.</p>
+               <p>
+                  <hi>Anſ.</hi> Firſt, the ſuperſcriptions (or ſubſcriptions) in the end of all <hi>Pauls</hi> Epiſtles ſeem, (and are judged by many learned) to be added by men ſince, and were not written by <hi>Paul.</hi> And it is evident, that ſome of thoſe ſuperſcriptions are contradictory to the very Epiſtles to which they are ſuffixed. As the 1 Epiſt. to the <hi>Corinth.</hi> by comparing the ſubſcription with <hi>Act.</hi> 19 9, 22. with 1 <hi>Cor.</hi> 16.8.</p>
+               <p>Secondly, It is very probable that thoſe particular ſub<g ref="char:EOLhyphen"/>ſcriptions to <hi>Timothy</hi> and <hi>Titus</hi> were not written by <hi>Paul,</hi> For,</p>
+               <p n="1">1. <hi>Timothy</hi> and <hi>Titus</hi> were Evangeliſts, 2 <hi>Tim.</hi> 4.5. 2 <hi>Cor.</hi> 8.23. that is, men not ty'd to one <hi>place</hi> or Church, but ſometimes accompanied the Apoſtles in their Journies from Country to Country, and aſſiſted them in the work of the Goſpel, by preaching, viſiting, and helping to ſettle <hi>Officers</hi> and good <hi>Order</hi> in the Churches, as appears, <hi>Act.</hi>
+                  <pb n="43" facs="tcp:108883:27"/>17.14. &amp; 19.22. 1 <hi>Theſ.</hi> 3.12. 2 <hi>Cor.</hi> 2.12. <hi>Gal.</hi> 2.1. 2 <hi>Cor.</hi> 5.6. 1 <hi>Tim.</hi> 1.3. <hi>Tit.</hi> 1 5. and as more fully (and particularly) appears in the poſitive part of the parallel (to wit, what <hi>Timothy</hi> and <hi>Titus</hi> were) between <hi>them</hi> and <hi>Dio<g ref="char:EOLhyphen"/>ceſan-Biſhops.</hi>
+               </p>
+               <p n="2">2. It is clear, that in <hi>Epheſus</hi> (which was but one Church in one City, <hi>Act.</hi> 18.19. <hi>Rev.</hi> 2.1.) there were divers Biſhops, <hi>Act.</hi> 20 17. compared with verſ. 28. Biſhops (ſo it is in the Greek) See <hi>Reaſ.</hi> firſt. And if there were divers Biſhops there, how could <hi>Timothy</hi> be a ſingle Biſhop there? And if thoſe Biſhops were choſen and ordained in <hi>Epheſus,</hi> whilſt <hi>Timothy</hi> was attending upon <hi>Paul</hi> in his <hi>Journies</hi> and <hi>Voyages,</hi> how could he be the firſt Biſhop there? as the ſubſcription ſaith, that he was <hi>ordained the firſt Biſhop of the Church of the</hi> Epheſians.</p>
+               <p n="3">3. If <hi>Titus</hi> were Biſhop of <hi>Crete,</hi>
+                  <note place="margin">
+                     <hi>Crete</hi> called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, that is a hundred Cities.</note> as the ſubſcription ſaith, he muſt be <hi>Archbiſhop:</hi> For, 1. <hi>Crete</hi> had a hun<g ref="char:EOLhyphen"/>dred Cities in it (if we may credit divers Hiſtorians and Expoſitors.) 2. He ordained Biſhops (or Elders, which is the ſame as was ſhewed before) and that was one of the main ends, why <hi>Paul</hi> left him in <hi>Crete, Tit.</hi> 1.5. com<g ref="char:EOLhyphen"/>pared with verſ. 7. And why <hi>Titus</hi> ſhould be Biſhop of many Cities, and that <hi>Timothy</hi> who was his equal at leaſt in moſt or all regards, and that had that commendation from <hi>Paul</hi> himſelf, <hi>That he had no man like-minded, &amp;c.</hi> and <hi>Timothy Biſhop</hi> but of one City or Church,<note place="margin">Phil. 2.20.</note> as <hi>Epheſus</hi> was, let the next Synod of Biſhops reſolve and determine if they can.<note place="margin">☜</note>
+               </p>
+               <p>Obj. <hi>But in the Epiſtle directed to the ſeven Churches of</hi> Aſia, <hi>there is mention onely of one Angel.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. It hath been ſhewed already, that in one of thoſe ſeven Churches, <hi>(viz. Epheſus)</hi> there were divers <hi>Biſhops;</hi> and ſo in the Church of <hi>Thyatira,</hi> The Holy Ghoſt writes, to you, and the reſt in <hi>Thyatira,</hi> which were more than one, <hi>cap.</hi> 2.24.</p>
+               <p n="2">2. Many good Angels termed one, as in <hi>Pſal.</hi> 34.7. &amp; 91.11. 2 <hi>King.</hi> 6.16, 17. &amp; 19.35. So one Prieſt or Prophet is put for many, <hi>Iſa.</hi> 3.2. <hi>Jer.</hi> 6.18, 19. <hi>Ezek.</hi> 7.26. <hi>Hoſ.</hi> 4.6. One Angel is here taken for divers; ſhewing, that all the <hi>Officers</hi> in the Congregation were entire and one.</p>
+               <p n="3">
+                  <pb n="44" facs="tcp:108883:28"/>
+3. If there were but one <hi>Biſhop</hi> in thoſe Churches; then the order in thoſe Churches, and in other Churches, would not be the ſame, as was ſhewed before, <hi>Phil.</hi> 1.1. <hi>Act.</hi> 14.23. &amp; 20.28. But,</p>
+               <p n="4">4. Laſtly, ſuppoſe it be granted that there was but one Biſhop in every one of thoſe particular Churches, and that their power did extend no further (as there is no ground to beleeve it did) than in their particular Churches, then they were not Dioceſans.</p>
+               <p>Obj. <hi>The Government of Biſhops is antient, of fifteen hun<g ref="char:EOLhyphen"/>dred years ſtanding; therefore lawful.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. The <hi>Devil</hi> and <hi>Antichriſt</hi> may make that Plea as well as they, <hi>John</hi> 8.44. 2 <hi>Theſ.</hi> 2.4. 1 <hi>John</hi> 4.3.</p>
+               <p n="2">2.<note place="margin">See the diffe<g ref="char:EOLhyphen"/>rences clearly and fully ſhewn in <hi>Smethy Annu<g ref="char:EOLhyphen"/>us.</hi>
+                  </note> They that read the Hiſtory of the Church (written by <hi>Euſebius, Sympſon,</hi> &amp;c.) will eaſily diſcern the differen<g ref="char:EOLhyphen"/>ces between the <hi>Biſhops</hi> of the three firſt <hi>Centuries,</hi> and our Dioceſan-Biſhops. The controverſie is not about the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me (as is acknowledged by all) but about the power of Biſhops.</p>
+               <p n="3">3.<note place="margin">Mea entiquetas Chriſtus eſt. <hi>Au<g ref="char:EOLhyphen"/>guſt.</hi> Conſuetudo ſine veritate, eſt ve<g ref="char:EOLhyphen"/>tuſtas erroris.</note> If the word of God be a perfect <hi>Rule</hi> (as it is) what need we go any further? Bring your <hi>Epiſcopal Metal</hi> to this <hi>Touch-ſtone,</hi> and if it will hold here, we will honour it with its Gray hairs, and receive and reverence it as the right Heir; If not, we muſt ſay with <hi>Gerhard, Antiquity without truth, is but a cypher.</hi>
+               </p>
+               <epigraph>
+                  <q>
+                     <bibl>1 Theſ. 5.21.</bibl> 
+                     <hi>Prove all things, hold faſt that which is good.</hi> Iſa. 8.20. <hi>To the Law, and to the Teſtimony, if they speak not according to this Word, it is becauſe there is no light in them.</hi>
+                  </q>
+                  <q>
+                     <hi>Is qui praeeſt, ſi praeter voluntatem Dei, vel praeter quod in ſanctis Scripturis evidenter praecipitur, vel dicit aliquid, vel imperat tanquam falſus aut ſacrilegus habeatur, Can. Law.</hi>
+                  </q>
+               </epigraph>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
